@@ -16,7 +16,7 @@
         "address": "0x10bEEa85519a704A63765d396415f9eA5aa30A17",
         "chainId": 100,
         "decimals": "18",
-        "name": "PILLAR on xDai",
+        "name": "PILLAR",
         "symbol": "PLR",
         "logoURI": "https://images.prismic.io/pillar-app/83dcf8ff-6459-41d4-8d43-7ec143814b2d_pillar-logo-5.png?auto=compress,format"
       },
@@ -24,7 +24,7 @@
         "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
         "chainId": 100,
         "decimals": 6,
-        "name": "Tether USD on xDai",
+        "name": "Tether USD",
         "symbol": "USDT",
         "logoURI": "https://gnosisscan.io/token/images/tether_32.png"
       },
@@ -32,7 +32,7 @@
         "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
         "chainId": 100,
         "decimals": 6,
-        "name": "USD//C on xDai",
+        "name": "USD//C",
         "symbol": "USDC",
         "logoURI": "https://gnosisscan.io/token/images/usdcgno_32.png"
       },
@@ -40,7 +40,7 @@
         "address": "0x7122d7661c4564b7c6cd4878b06766489a6028a2",
         "chainId": 100,
         "decimals": 18,
-        "name": "Matic Token on xDai",
+        "name": "Matic Token",
         "symbol": "MATIC",
         "logoURI": "https://gnosisscan.io/images/main/empty-token.png"
       },
@@ -48,7 +48,7 @@
         "address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
         "chainId": 100,
         "decimals": 18,
-        "name": "Uniswap on xDai",
+        "name": "Uniswap",
         "symbol": "UNI",
         "logoURI": "https://gnosisscan.io/token/images/uniswapgno_32.png"
       },
@@ -56,7 +56,7 @@
         "address": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
         "chainId": 100,
         "decimals": 18,
-        "name": "ChainLink Token on xDai",
+        "name": "ChainLink Token",
         "symbol": "LINK",
         "logoURI": "https://gnosisscan.io/token/images/chainlinkog_32.png"
       },
@@ -64,7 +64,7 @@
         "address": "0x2f0e755efe6b58238a67db420ff3513ec1fb31ef",
         "chainId": 100,
         "decimals": 18,
-        "name": "Rocket Pool on xDai",
+        "name": "Rocket Pool",
         "symbol": "RPL",
         "logoURI": "https://gnosisscan.io/token/images/rocketpoolgno_32.png"
       },
@@ -72,7 +72,7 @@
         "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
         "chainId": 100,
         "decimals": 18,
-        "name": "Gnosis Token on xDai",
+        "name": "Gnosis Token",
         "symbol": "GNO",
         "logoURI": "https://gnosisscan.io/token/images/gnosistoken_32.png"
       },
@@ -80,7 +80,7 @@
         "address": "0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd",
         "chainId": 100,
         "decimals": 18,
-        "name": "yearn.finance on xDai",
+        "name": "yearn.finance",
         "symbol": "YFI",
         "logoURI": "https://gnosisscan.io/token/images/yearnfingno_32.png"
       },
@@ -88,7 +88,7 @@
         "address": "0x6a8cb6714b1ee5b471a7d2ec4302cb4f5ff25ec2",
         "chainId": 100,
         "decimals": 18,
-        "name": "Energy Web Token Bridged on xDai",
+        "name": "Energy Web Token Bridged",
         "symbol": "EWTB",
         "logoURI": "https://gnosisscan.io/token/images/ewtgno_32.png"
       },
@@ -96,7 +96,7 @@
         "address": "0xdfc20ae04ed70bd9c7d720f449eedae19f659d65",
         "chainId": 100,
         "decimals": 18,
-        "name": "Badger on xDai",
+        "name": "Badger",
         "symbol": "BADGER",
         "logoURI": "https://gnosisscan.io/token/images/badgerdaogno_32.png"
       },
@@ -104,7 +104,7 @@
         "address": "0xd3d47d5578e55c880505dc40648f7f9307c3e7a8",
         "chainId": 100,
         "decimals": 18,
-        "name": "DefiPulse Index on xDai",
+        "name": "DefiPulse Index",
         "symbol": "DPI",
         "logoURI": "https://gnosisscan.io/token/images/defipulsedpi_32.png"
       },
@@ -112,7 +112,7 @@
         "address": "0x21a42669643f45bc0e086b8fc2ed70c23d67509d",
         "chainId": 100,
         "decimals": 18,
-        "name": "FOX on xDai",
+        "name": "FOX",
         "symbol": "FOX",
         "logoURI": "https://gnosisscan.io/token/images/shapeshiftfox_32.png"
       },
@@ -128,7 +128,7 @@
         "address": "0xb90d6bec20993be5d72a5ab353343f7a0281f158",
         "chainId": 100,
         "decimals": 18,
-        "name": "DXdao on xDai",
+        "name": "DXdao",
         "symbol": "DXD",
         "logoURI": "https://gnosisscan.io/token/images/dxdaogno_32.png"
       },
@@ -136,7 +136,7 @@
         "address": "0x0116e28b43a358162b96f70b4de14c98a4465f25",
         "chainId": 100,
         "decimals": 18,
-        "name": "UniCrypt on xDai",
+        "name": "UniCrypt",
         "symbol": "UNCX",
         "logoURI": "https://gnosisscan.io/token/images/unicryptuncx_32.png"
       },
@@ -144,7 +144,7 @@
         "address": "0xd057604a14982fe8d88c5fc25aac3267ea142a08",
         "chainId": 100,
         "decimals": 18,
-        "name": "HOPR Token on xDai",
+        "name": "HOPR Token",
         "symbol": "HOPR",
         "logoURI": "https://gnosisscan.io/token/images/hoprgno_32.png"
       },
@@ -152,7 +152,7 @@
         "address": "0x1e16aa4df73d29c029d94ceda3e3114ec191e25a",
         "chainId": 100,
         "decimals": 18,
-        "name": "Moons on xDai",
+        "name": "Moons",
         "symbol": "xMOON",
         "logoURI": "https://gnosisscan.io/token/images/moonsxdai_32.png"
       },
@@ -176,7 +176,7 @@
         "address": "0x48b1b0d077b4919b65b4e4114806dd803901e1d9",
         "chainId": 100,
         "decimals": 18,
-        "name": "Decentralized Insurance Protocol on xDai",
+        "name": "Decentralized Insurance Protocol",
         "symbol": "DIP",
         "logoURI": "https://gnosisscan.io/token/images/etheriscdip_32.png"
       },
@@ -200,7 +200,7 @@
         "address": "0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb",
         "chainId": 100,
         "decimals": 18,
-        "name": "DAOhaus Token on xDai",
+        "name": "DAOhaus Token",
         "symbol": "HAUS",
         "logoURI": "https://gnosisscan.io/token/images/daohausgno_32.png"
       },
@@ -216,7 +216,7 @@
         "address": "0xec3f3e6d7907acda3a7431abd230196cda3fbb19",
         "chainId": 100,
         "decimals": 18,
-        "name": "Ethix on xDai",
+        "name": "Ethix",
         "symbol": "ETHIX",
         "logoURI": "https://gnosisscan.io/token/images/ethichub_32.png"
       },
@@ -232,7 +232,7 @@
         "address": "0xb7d311e2eb55f2f68a9440da38e7989210b9a05e",
         "chainId": 100,
         "decimals": 18,
-        "name": "STAKE on xDai",
+        "name": "STAKE",
         "symbol": "STAKE",
         "logoURI": "https://gnosisscan.io/token/images/stakexdai_32.png"
       },
@@ -256,7 +256,7 @@
         "address": "0x532801ed6f82fffd2dab70a19fc2d7b2772c4f4b",
         "chainId": 100,
         "decimals": 18,
-        "name": "Swapr on xDai",
+        "name": "Swapr",
         "symbol": "SWPR",
         "logoURI": "https://gnosisscan.io/token/images/swaprswpr_32.png"
       },
@@ -264,7 +264,7 @@
         "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
         "chainId": 100,
         "decimals": 18,
-        "name": "0xMonero on xDai",
+        "name": "0xMonero",
         "symbol": "0xMR",
         "logoURI": "https://gnosisscan.io/token/images/0xmonero_32.png"
       },
@@ -280,7 +280,7 @@
         "address": "0x524b969793a64a602342d89bc2789d43a016b13a",
         "chainId": 100,
         "decimals": 18,
-        "name": "Donut on xDai",
+        "name": "Donut",
         "symbol": "DONUT",
         "logoURI": "https://gnosisscan.io/token/images/donutgno_32.png"
       },
@@ -296,7 +296,7 @@
         "address": "0xc60e38c6352875c051b481cbe79dd0383adb7817",
         "chainId": 100,
         "decimals": 18,
-        "name": "DAppNode DAO Token on xDai",
+        "name": "DAppNode DAO Token",
         "symbol": "NODE",
         "logoURI": "https://gnosisscan.io/token/images/dappnode_32.png"
       },
@@ -312,7 +312,7 @@
         "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
         "chainId": 100,
         "decimals": 18,
-        "name": "Wrapped Ether on xDai",
+        "name": "Wrapped Ether",
         "symbol": "WETH",
         "logoURI": "https://gnosisscan.io/token/images/wethgno_32.png"
       },
@@ -360,7 +360,7 @@
         "address": "0x97edc0e345fbbbd8460847fcfa3bc2a13bf8641f",
         "chainId": 100,
         "decimals": 18,
-        "name": "DAOSquare Governance Token on xDai",
+        "name": "DAOSquare Governance Token",
         "symbol": "RICE",
         "logoURI": "https://gnosisscan.io/token/images/daosquarerice_32.png"
       },
@@ -376,7 +376,7 @@
         "address": "0xc45b3c1c24d5f54e7a2cf288ac668c74dd507a84",
         "chainId": 100,
         "decimals": 18,
-        "name": "Symmetric on xDai",
+        "name": "Symmetric",
         "symbol": "SYMM",
         "logoURI": "https://gnosisscan.io/token/images/symmetricfinance_32.png"
       },
@@ -392,7 +392,7 @@
         "address": "0x83ff60e2f93f8edd0637ef669c69d5fb4f64ca8e",
         "chainId": 100,
         "decimals": 18,
-        "name": "Bright on xDai",
+        "name": "Bright",
         "symbol": "BRIGHT",
         "logoURI": "https://gnosisscan.io/token/images/brightid_32.png"
       },
@@ -416,7 +416,7 @@
         "address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
         "chainId": 100,
         "decimals": 18,
-        "name": "Raid Guild Token ⚔️ on xDai",
+        "name": "Raid Guild Token ⚔️",
         "symbol": "RAID",
         "logoURI": "https://gnosisscan.io/token/images/raidgno_32.png"
       },
@@ -424,7 +424,7 @@
         "address": "0x479e32cdff5f216f93060700c711d1cc8e811a6b",
         "chainId": 100,
         "decimals": 18,
-        "name": "Trips on xDai",
+        "name": "Trips",
         "symbol": "TRIPS",
         "logoURI": "https://gnosisscan.io/token/images/tripscomm_32.png"
       },
@@ -432,7 +432,7 @@
         "address": "0xd51e1ddd116fff9a71c1b8feeb58113afa2b4d93",
         "chainId": 100,
         "decimals": 9,
-        "name": "AMIS on xDai",
+        "name": "AMIS",
         "symbol": "AMIS",
         "logoURI": "https://gnosisscan.io/token/images/amissolutions_32.png"
       },
@@ -440,7 +440,7 @@
         "address": "0x364b5975385b4de226cf450df82d7ed69902ac5a",
         "chainId": 100,
         "decimals": 18,
-        "name": "TORG on xDai",
+        "name": "TORG",
         "symbol": "TORG",
         "logoURI": "https://gnosisscan.io/token/images/torggno_32.png"
       },
@@ -480,7 +480,7 @@
         "address": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
         "chainId": 100,
         "decimals": 8,
-        "name": "Wrapped BTC on xDai",
+        "name": "Bitcoin",
         "symbol": "WBTC",
         "logoURI": "https://gnosisscan.io/token/images/wbtcgno_32.png"
       }

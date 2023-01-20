@@ -128,7 +128,7 @@
         "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "chainId": 1,
         "decimals": "8",
-        "name": "Wrapped BTC",
+        "name": "Bitcoin",
         "symbol": "WBTC",
         "logoURI": "https://etherscan.io/token/images/wbtc_28.png?v=1"
       },

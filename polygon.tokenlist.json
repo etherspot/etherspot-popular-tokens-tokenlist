@@ -32,7 +32,7 @@
         "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
         "chainId": 137,
         "decimals": "6",
-        "name": "(PoS) Tether USD",
+        "name": "Tether USD",
         "symbol": "USDT",
         "logoURI": "https://polygonscan.com/token/images/tether_32.png"
       },
@@ -48,7 +48,7 @@
         "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
         "chainId": 137,
         "decimals": "6",
-        "name": "USD Coin (PoS)",
+        "name": "USD Coin",
         "symbol": "USDC",
         "logoURI": "https://polygonscan.com/token/images/centre-usdc_32.png"
       },
@@ -72,7 +72,7 @@
         "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
         "chainId": 137,
         "decimals": "18",
-        "name": "(PoS) Dai Stablecoin",
+        "name": "Dai Stablecoin",
         "symbol": "DAI",
         "logoURI": "https://polygonscan.com/token/images/mcdDai_32.png"
       },
@@ -88,7 +88,7 @@
         "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
         "chainId": 137,
         "decimals": "18",
-        "name": "Uniswap (PoS)",
+        "name": "Uniswap",
         "symbol": "UNI",
         "logoURI": "https://polygonscan.com/token/images/uniswap_32.png"
       },
@@ -96,7 +96,7 @@
         "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
         "chainId": 137,
         "decimals": "8",
-        "name": "(PoS) Wrapped BTC",
+        "name": "Bitcoin",
         "symbol": "WBTC",
         "logoURI": "https://polygonscan.com/token/images/wBTC_32.png"
       },
@@ -128,7 +128,7 @@
         "address": "0xB7b31a6BC18e48888545CE79e83E06003bE70930",
         "chainId": 137,
         "decimals": "18",
-        "name": "ApeCoin (PoS)",
+        "name": "ApeCoin",
         "symbol": "APE",
         "logoURI": "https://polygonscan.com/token/images/apecoinpoly_32.png"
       },
@@ -144,7 +144,7 @@
         "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
         "chainId": 137,
         "decimals": "18",
-        "name": "Lido DAO Token (PoS)",
+        "name": "Lido DAO Token",
         "symbol": "LDO",
         "logoURI": "https://polygonscan.com/token/images/lidodao_32.png"
       },
@@ -160,7 +160,7 @@
         "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
         "chainId": 137,
         "decimals": "18",
-        "name": "Aave (PoS)",
+        "name": "Aave",
         "symbol": "AAVE",
         "logoURI": "https://polygonscan.com/token/images/aave_32.png"
       },
@@ -192,7 +192,7 @@
         "address": "0xb46e0ae620efd98516f49bb00263317096c114b2",
         "chainId": 137,
         "decimals": "18",
-        "name": "Theta Token (PoS)",
+        "name": "Theta Token",
         "symbol": "THETA",
         "logoURI": "https://polygonscan.com/token/images/theta_28.png"
       },
@@ -224,7 +224,7 @@
         "address": "0xffa4d863c96e743a2e1513824ea006b8d0353c57",
         "chainId": 137,
         "decimals": "18",
-        "name": "Decentralized USD (PoS)",
+        "name": "Decentralized USD",
         "symbol": "USDD",
         "logoURI": "https://polygonscan.com/token/images/usddtron_32.png"
       },
@@ -288,7 +288,7 @@
         "address": "0x172370d5cd63279efa6d502dab29171933a610af",
         "chainId": 137,
         "decimals": "18",
-        "name": "CRV (PoS)",
+        "name": "CRV",
         "symbol": "CRV",
         "logoURI": "https://polygonscan.com/token/images/curvefi-crv_32.png"
       },
@@ -296,7 +296,7 @@
         "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
         "chainId": 137,
         "decimals": "18",
-        "name": "Synthetix Network Token (PoS)",
+        "name": "Synthetix Network Token",
         "symbol": "SNX",
         "logoURI": "https://polygonscan.com/token/images/synthetix-snx_32.png"
       },
@@ -368,7 +368,7 @@
         "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
         "chainId": 137,
         "decimals": "18",
-        "name": "(PoS) Compound",
+        "name": "Compound",
         "symbol": "COMP",
         "logoURI": "https://polygonscan.com/token/images/comp_32.png"
       },
@@ -424,7 +424,7 @@
         "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
         "chainId": 137,
         "decimals": "18",
-        "name": "SushiToken (PoS)",
+        "name": "SushiToken",
         "symbol": "SUSHI",
         "logoURI": "https://polygonscan.com/token/images/sushiswap-sushi_32.png"
       },
@@ -456,7 +456,7 @@
         "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
         "chainId": 137,
         "decimals": "18",
-        "name": "(PoS) yearn.finance",
+        "name": "yearn.finance",
         "symbol": "YFI",
         "logoURI": "https://polygonscan.com/token/images/yearn-yfi_32.png"
       },
