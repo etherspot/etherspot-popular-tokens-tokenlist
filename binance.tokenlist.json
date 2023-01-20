@@ -24,7 +24,7 @@
         "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Ethereum Token",
+        "name": "Ethereum Token",
         "symbol": "ETH",
         "logoURI": "https://bscscan.com/token/images/ethereum_32.png"
       },
@@ -32,7 +32,7 @@
         "address": "0x55d398326f99059ff775485246999027b3197955",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg BSC-USD",
+        "name": "BSC-USD",
         "symbol": "BSC-USD",
         "logoURI": "https://bscscan.com/token/images/busdt_32.png"
       },
@@ -48,7 +48,7 @@
         "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg USD Coin",
+        "name": "USD Coin",
         "symbol": "USDC",
         "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
       },
@@ -64,7 +64,7 @@
         "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg XRP Token",
+        "name": "XRP Token",
         "symbol": "XRP",
         "logoURI": "https://bscscan.com/token/images/xrp_32.png"
       },
@@ -72,7 +72,7 @@
         "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg BUSD Token",
+        "name": "BUSD Token",
         "symbol": "BUSD",
         "logoURI": "https://bscscan.com/token/images/busd_32_2.png"
       },
@@ -80,7 +80,7 @@
         "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Cardano Token",
+        "name": "Cardano Token",
         "symbol": "ADA",
         "logoURI": "https://bscscan.com/token/images/cardano_32.png"
       },
@@ -88,7 +88,7 @@
         "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
         "chainId": 56,
         "decimals": "8",
-        "name": "Binance-Peg Dogecoin Token",
+        "name": "Dogecoin Token",
         "symbol": "DOGE",
         "logoURI": "https://bscscan.com/token/images/dogecoin_32.png"
       },
@@ -104,7 +104,7 @@
         "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Litecoin Token",
+        "name": "Litecoin Token",
         "symbol": "LTC",
         "logoURI": "https://bscscan.com/token/images/litecoin_32.png"
       },
@@ -112,7 +112,7 @@
         "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Polkadot Token",
+        "name": "Polkadot Token",
         "symbol": "DOT",
         "logoURI": "https://bscscan.com/token/images/polkadot_32.png"
       },
@@ -120,7 +120,7 @@
         "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Dai Token",
+        "name": "Dai Token",
         "symbol": "DAI",
         "logoURI": "https://bscscan.com/token/images/dai_32.png"
       },
@@ -128,7 +128,7 @@
         "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg SHIBA INU Token",
+        "name": "SHIBA INU Token",
         "symbol": "SHIB",
         "logoURI": "https://bscscan.com/token/images/shibatoken_32.png"
       },
@@ -136,7 +136,7 @@
         "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Avalanche Token",
+        "name": "Avalanche Token",
         "symbol": "AVAX",
         "logoURI": "https://bscscan.com/token/images/avax_32.png"
       },
@@ -144,7 +144,7 @@
         "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Uniswap",
+        "name": "Uniswap",
         "symbol": "UNI",
         "logoURI": "https://bscscan.com/token/images/uniswap_32.png"
       },
@@ -152,7 +152,7 @@
         "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Cosmos Token",
+        "name": "Cosmos Token",
         "symbol": "ATOM",
         "logoURI": "https://bscscan.com/token/images/cosmos_32.png"
       },
@@ -160,7 +160,7 @@
         "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg ChainLink Token",
+        "name": "ChainLink Token",
         "symbol": "LINK",
         "logoURI": "https://bscscan.com/token/images/chainlink_32.png?v=2"
       },
@@ -168,7 +168,7 @@
         "address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Ethereum Classic",
+        "name": "Ethereum Classic",
         "symbol": "ETC",
         "logoURI": "https://bscscan.com/token/images/ethclassic_32.png?v=1"
       },
@@ -176,7 +176,7 @@
         "address": "0x8595f9da7b868b1822194faed312235e43007b49",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg BitTorrent Token",
+        "name": "BitTorrent Token",
         "symbol": "BTT",
         "logoURI": "https://bscscan.com/token/images/bittorrent_32.png"
       },
@@ -184,7 +184,7 @@
         "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Bitcoin Cash Token",
+        "name": "Bitcoin Cash Token",
         "symbol": "BCH",
         "logoURI": "https://bscscan.com/token/images/bitcoincash_32.png"
       },
@@ -192,7 +192,7 @@
         "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg NEAR Protocol",
+        "name": "NEAR Protocol",
         "symbol": "NEAR",
         "logoURI": "https://bscscan.com/token/images/near_32.png"
       },
@@ -200,7 +200,7 @@
         "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg EOS Token",
+        "name": "EOS Token",
         "symbol": "EOS",
         "logoURI": "https://bscscan.com/token/images/eos_32.png"
       },
@@ -216,7 +216,7 @@
         "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg BTCB Token",
+        "name": "BTCB Token",
         "symbol": "BTCB",
         "logoURI": "https://bscscan.com/token/images/btcb_32.png"
       },
@@ -224,7 +224,7 @@
         "address": "0xc943c5320b9c18c153d1e2d12cc3074bebfb31a2",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg FLOW Token",
+        "name": "FLOW Token",
         "symbol": "FLOW",
         "logoURI": "https://bscscan.com/token/images/onflow_32.png"
       },
@@ -232,7 +232,7 @@
         "address": "0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Paxos Standard",
+        "name": "Paxos Standard",
         "symbol": "PAX",
         "logoURI": "https://bscscan.com/token/images/paxos_32.png"
       },
@@ -240,7 +240,7 @@
         "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Axie Infinity Shard Token",
+        "name": "Axie Infinity Shard Token",
         "symbol": "AXS",
         "logoURI": "https://bscscan.com/token/images/axieinfinity_32.png"
       },
@@ -248,7 +248,7 @@
         "address": "0xb3c11196a4f3b1da7c23d9fb0a3dde9c6340934f",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Pax Dollar Token",
+        "name": "Pax Dollar Token",
         "symbol": "USDP",
         "logoURI": "https://bscscan.com/token/images/paxdollar_32.png"
       },
@@ -256,7 +256,7 @@
         "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Elrond Token",
+        "name": "Elrond Token",
         "symbol": "EGLD",
         "logoURI": "https://bscscan.com/token/images/elrond_32.png?v=2"
       },
@@ -264,7 +264,7 @@
         "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg TrueUSD Token",
+        "name": "TrueUSD Token",
         "symbol": "TUSD",
         "logoURI": "https://bscscan.com/token/images/trueusd_32.png"
       },
@@ -272,7 +272,7 @@
         "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Tezos Token",
+        "name": "Tezos Token",
         "symbol": "XTZ",
         "logoURI": "https://bscscan.com/token/images/tezos_32.png"
       },
@@ -288,7 +288,7 @@
         "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Zcash Token",
+        "name": "Zcash Token",
         "symbol": "ZEC",
         "logoURI": "https://bscscan.com/token/images/zcash_32.png"
       },
@@ -304,7 +304,7 @@
         "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Synthetix Network Token",
+        "name": "Synthetix Network Token",
         "symbol": "SNX",
         "logoURI": "https://bscscan.com/token/images/snx_32.png"
       },
@@ -320,7 +320,7 @@
         "address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Maker",
+        "name": "Maker",
         "symbol": "MKR",
         "logoURI": "https://bscscan.com/token/images/makerdao_32.png"
       },
@@ -344,7 +344,7 @@
         "address": "0x0ef2e7602add1733bfdb17ac3094d0421b502ca3",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg eCash Token",
+        "name": "eCash Token",
         "symbol": "XEC",
         "logoURI": "https://bscscan.com/token/images/ecash_32.png"
       },
@@ -352,7 +352,7 @@
         "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg PAX Gold",
+        "name": "PAX Gold",
         "symbol": "PAXG",
         "logoURI": "https://bscscan.com/token/images/paxosgold_32.png"
       },
@@ -400,7 +400,7 @@
         "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Basic Attention Token",
+        "name": "Basic Attention Token",
         "symbol": "BAT",
         "logoURI": "https://bscscan.com/token/images/bat_32.png"
       },
@@ -408,7 +408,7 @@
         "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Compound Coin",
+        "name": "Compound Coin",
         "symbol": "COMP",
         "logoURI": "https://bscscan.com/token/images/compound_32.png?v1"
       },
@@ -424,7 +424,7 @@
         "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg IoTeX Network",
+        "name": "IoTeX Network",
         "symbol": "IOTX",
         "logoURI": "https://bscscan.com/token/images/iotex_32.png"
       },
@@ -456,7 +456,7 @@
         "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg yearn.finance",
+        "name": "yearn.finance",
         "symbol": "YFI",
         "logoURI": "https://bscscan.com/token/images/yfi_32.png"
       },
@@ -496,7 +496,7 @@
         "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
         "chainId": 56,
         "decimals": "18",
-        "name": "Binance-Peg Ontology Token",
+        "name": "Ontology Token",
         "symbol": "ONT",
         "logoURI": "https://bscscan.com/token/images/ontology_32.png"
       }
