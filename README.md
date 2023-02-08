@@ -2,8 +2,11 @@
 *Disclaimer: 
 The list is from the Popular tokenlist filtered by Volume (24H) on explorers listed below:*
 https://polygonscan.com/tokens
+
 https://gnosisscan.io/tokens
+
 https://etherscan.io/tokens
+
 https://bscsscan.com/tokens
 
 **Date of snapshot: Jan 16, 2023**
