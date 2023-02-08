@@ -37,14 +37,6 @@
         "logoURI": "https://polygonscan.com/token/images/tether_32.png"
       },
       {
-        "address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "BNB",
-        "symbol": "BNB",
-        "logoURI": "https://polygonscan.com/token/images/bnb_28_2.png"
-      },
-      {
         "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
         "chainId": 137,
         "decimals": "6",
@@ -101,14 +93,6 @@
         "logoURI": "https://polygonscan.com/token/images/wBTC_32.png"
       },
       {
-        "address": "0x06d02e9d62a13fc76bb229373fb3bbbd1101d2fc",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Bitfinex LEO Token",
-        "symbol": "LEO",
-        "logoURI": "https://polygonscan.com/token/images/leo_28_2.png"
-      },
-      {
         "address": "0xb0897686c545045afc77cf20ec7a532e3120e0f1",
         "chainId": 137,
         "decimals": "18",
@@ -131,14 +115,6 @@
         "name": "ApeCoin",
         "symbol": "APE",
         "logoURI": "https://polygonscan.com/token/images/apecoinpoly_32.png"
-      },
-      {
-        "address": "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c",
-        "chainId": 137,
-        "decimals": "8",
-        "name": "Cronos Coin",
-        "symbol": "CRO",
-        "logoURI": "https://polygonscan.com/token/images/cro_32.png"
       },
       {
         "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
@@ -165,14 +141,6 @@
         "logoURI": "https://polygonscan.com/token/images/aave_32.png"
       },
       {
-        "address": "0x6f3b3286fd86d8b47ec737ceb3d0d354cc657b3e",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Paxos Standard",
-        "symbol": "PAX",
-        "logoURI": "https://polygonscan.com/token/images/paxos_28_2.png"
-      },
-      {
         "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
         "chainId": 137,
         "decimals": "18",
@@ -189,52 +157,12 @@
         "logoURI": "https://polygonscan.com/token/images/trueusd_32.png"
       },
       {
-        "address": "0xb46e0ae620efd98516f49bb00263317096c114b2",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Theta Token",
-        "symbol": "THETA",
-        "logoURI": "https://polygonscan.com/token/images/theta_28.png"
-      },
-      {
-        "address": "0xfad65eb62a97ff5ed91b23afd039956aaca6e93b",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "HuobiToken",
-        "symbol": "HT",
-        "logoURI": "https://polygonscan.com/token/images/huobi_28.png"
-      },
-      {
         "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
         "chainId": 137,
         "decimals": "18",
         "name": "Decentraland",
         "symbol": "MANA",
         "logoURI": "https://polygonscan.com/token/images/decentraland_32.png"
-      },
-      {
-        "address": "0xc9c1c1c20b3658f8787cc2fd702267791f224ce1",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Fantom Token",
-        "symbol": "FTM",
-        "logoURI": "https://polygonscan.com/token/images/fantomtoken_32.png"
-      },
-      {
-        "address": "0xffa4d863c96e743a2e1513824ea006b8d0353c57",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Decentralized USD",
-        "symbol": "USDD",
-        "logoURI": "https://polygonscan.com/token/images/usddtron_32.png"
-      },
-      {
-        "address": "0xf1938ce12400f9a761084e7a80d37e732a4da056",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "chiliZ",
-        "symbol": "CHZ",
-        "logoURI": "https://polygonscan.com/token/images/chiliz_28.png?v=2"
       },
       {
         "address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
@@ -245,36 +173,12 @@
         "logoURI": "https://polygonscan.com/token/images/mkr-etherscan-35.png"
       },
       {
-        "address": "0xc8a94a3d3d2dabc3c1caffffdca6a7543c3e3e65",
-        "chainId": 137,
-        "decimals": "2",
-        "name": "Gemini dollar",
-        "symbol": "GUSD",
-        "logoURI": "https://polygonscan.com/token/images/gemini_28.png"
-      },
-      {
         "address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
         "chainId": 137,
         "decimals": "18",
         "name": "Graph Token",
         "symbol": "GRT",
         "logoURI": "https://polygonscan.com/token/images/TheGraph_32.png"
-      },
-      {
-        "address": "0x7205705771547cf79201111b4bd8aaf29467b9ec",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Rocket Pool",
-        "symbol": "RPL",
-        "logoURI": "https://polygonscan.com/token/images/Rocketpool_32.png"
-      },
-      {
-        "address": "0x553d3d295e0f695b9228246232edf400ed3560b5",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Paxos Gold",
-        "symbol": "PAXG",
-        "logoURI": "https://polygonscan.com/token/images/paxosgold_32.png"
       },
       {
         "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
@@ -325,36 +229,12 @@
         "logoURI": "https://polygonscan.com/token/images/1inch_32.png"
       },
       {
-        "address": "0x7ec26842f195c852fa843bb9f6d8b583a274a157",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "EnjinCoin",
-        "symbol": "ENJ",
-        "logoURI": "https://polygonscan.com/token/images/enjin_28_2.png"
-      },
-      {
         "address": "0x3cef98bb43d732e2f285ee605a8158cde967d219",
         "chainId": 137,
         "decimals": "18",
         "name": "BAT",
         "symbol": "BAT",
         "logoURI": "https://polygonscan.com/token/images/bat.png"
-      },
-      {
-        "address": "0x0c51f415cf478f8d08c246a6c6ee180c5dc3a012",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "HoloToken",
-        "symbol": "HOT",
-        "logoURI": "https://polygonscan.com/token/images/holo_28.png"
-      },
-      {
-        "address": "0x84e1670f61347cdaed56dcc736fb990fbb47ddc1",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "LoopringCoin V2",
-        "symbol": "LRC",
-        "logoURI": "https://polygonscan.com/token/images/lrc_32.png"
       },
       {
         "address": "0xcb059c5573646047d6d88dddb87b745c18161d3b",
@@ -373,44 +253,12 @@
         "logoURI": "https://polygonscan.com/token/images/comp_32.png"
       },
       {
-        "address": "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Gnosis",
-        "symbol": "GNO",
-        "logoURI": "https://polygonscan.com/token/images/gnosans_32.png"
-      },
-      {
-        "address": "0x6abb753c1893194de4a83c6e8b4eadfc105fd5f5",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Swipe",
-        "symbol": "SXP",
-        "logoURI": "https://polygonscan.com/token/images/swipe_32.png"
-      },
-      {
-        "address": "0x7583feddbcefa813dc18259940f76a02710a8905",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Fetch",
-        "symbol": "FET",
-        "logoURI": "https://polygonscan.com/token/images/fetch_32.png?v=2"
-      },
-      {
         "address": "0xd85d1e945766fea5eda9103f918bd915fbca63e6",
         "chainId": 137,
         "decimals": "4",
         "name": "Celsius",
         "symbol": "CEL",
         "logoURI": "https://polygonscan.com/token/images/celsiustoken_32.png"
-      },
-      {
-        "address": "0xf6372cdb9c1d3674e83842e3800f2a62ac9f3c66",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "IoTeX Network",
-        "symbol": "IOTX",
-        "logoURI": "https://polygonscan.com/token/images/iotex_28.png"
       },
       {
         "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
@@ -437,14 +285,6 @@
         "logoURI": "https://polygonscan.com/token/images/terra-ust_32.png"
       },
       {
-        "address": "0x67ce67ec4fcd4aca0fcb738dd080b2a21ff69d75",
-        "chainId": 137,
-        "decimals": "8",
-        "name": "SwissBorg",
-        "symbol": "CHSB",
-        "logoURI": "https://polygonscan.com/token/images/swissborg_28_3.png"
-      },
-      {
         "address": "0x0b220b82f3ea3b7f6d9a1d8ab58930c064a2b5bf",
         "chainId": 137,
         "decimals": "18",
@@ -461,36 +301,12 @@
         "logoURI": "https://polygonscan.com/token/images/yearn-yfi_32.png"
       },
       {
-        "address": "0xa8b1e0764f85f53dfe21760e8afe5446d82606ac",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "BandToken",
-        "symbol": "BAND",
-        "logoURI": "https://polygonscan.com/token/images/bandtoken_32.png"
-      },
-      {
-        "address": "0x0621d647cecbfb64b79e44302c1933cb4f27054d",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Amp",
-        "symbol": "AMP",
-        "logoURI": "https://polygonscan.com/token/images/amp_32.png?v=2"
-      },
-      {
         "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
         "chainId": 137,
         "decimals": "18",
         "name": "Mask Network",
         "symbol": "MASK",
         "logoURI": "https://polygonscan.com/token/images/mask_32.png"
-      },
-      {
-        "address": "0x62414d03084eeb269e18c970a21f45d2967f0170",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "OMG Network",
-        "symbol": "OMG",
-        "logoURI": "https://polygonscan.com/token/images/OMGNetwork_32.png"
       },
       {
         "address": "0xe0339c80ffde91f3e20494df88d4206d86024cdf",

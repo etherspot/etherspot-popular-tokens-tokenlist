@@ -61,14 +61,6 @@
         "logoURI": "https://gnosisscan.io/token/images/chainlinkog_32.png"
       },
       {
-        "address": "0x2f0e755efe6b58238a67db420ff3513ec1fb31ef",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Rocket Pool",
-        "symbol": "RPL",
-        "logoURI": "https://gnosisscan.io/token/images/rocketpoolgno_32.png"
-      },
-      {
         "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
         "chainId": 100,
         "decimals": 18,
@@ -99,14 +91,6 @@
         "name": "Badger",
         "symbol": "BADGER",
         "logoURI": "https://gnosisscan.io/token/images/badgerdaogno_32.png"
-      },
-      {
-        "address": "0xd3d47d5578e55c880505dc40648f7f9307c3e7a8",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "DefiPulse Index",
-        "symbol": "DPI",
-        "logoURI": "https://gnosisscan.io/token/images/defipulsedpi_32.png"
       },
       {
         "address": "0x21a42669643f45bc0e086b8fc2ed70c23d67509d",
@@ -181,14 +165,6 @@
         "logoURI": "https://gnosisscan.io/token/images/etheriscdip_32.png"
       },
       {
-        "address": "0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb",
-        "chainId": 100,
-        "decimals": 0,
-        "name": "MtPelerin Shares",
-        "symbol": "MPS",
-        "logoURI": "https://gnosisscan.io/token/images/mtpelerinsharesgno_32.png"
-      },
-      {
         "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
         "chainId": 100,
         "decimals": 18,
@@ -211,22 +187,6 @@
         "name": "Giveth from Mainnet",
         "symbol": "GIV",
         "logoURI": "https://gnosisscan.io/token/images/givethgno_32.png"
-      },
-      {
-        "address": "0xec3f3e6d7907acda3a7431abd230196cda3fbb19",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Ethix",
-        "symbol": "ETHIX",
-        "logoURI": "https://gnosisscan.io/token/images/ethichub_32.png"
-      },
-      {
-        "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Graviton",
-        "symbol": "GTON",
-        "logoURI": "https://gnosisscan.io/token/images/gravitonpoly_32.png"
       },
       {
         "address": "0xb7d311e2eb55f2f68a9440da38e7989210b9a05e",
@@ -293,14 +253,6 @@
         "logoURI": "https://gnosisscan.io/token/images/mivawallet_32.png"
       },
       {
-        "address": "0xc60e38c6352875c051b481cbe79dd0383adb7817",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "DAppNode DAO Token",
-        "symbol": "NODE",
-        "logoURI": "https://gnosisscan.io/token/images/dappnode_32.png"
-      },
-      {
         "address": "0x1698cd22278ef6e7c0df45a8dea72edbea9e42aa",
         "chainId": 100,
         "decimals": 18,
@@ -323,22 +275,6 @@
         "name": "Honey",
         "symbol": "HNY",
         "logoURI": "https://gnosisscan.io/token/images/1hivehoney_32.png"
-      },
-      {
-        "address": "0x9fb1d52596c44603198fb0aee434fac3a679f702",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Jarvis Synthetic Euro",
-        "symbol": "jEUR",
-        "logoURI": "https://gnosisscan.io/token/images/jarviseur_32.png"
-      },
-      {
-        "address": "0x2d5563da42b06fbbf9c67b7dc073cf6a7842239e",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Jarvis Synthetic Swiss Franc",
-        "symbol": "jCHF",
-        "logoURI": "https://gnosisscan.io/token/images/jarvisjchf_32.png"
       },
       {
         "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
@@ -373,14 +309,6 @@
         "logoURI": "https://gnosisscan.io/token/images/1hivewater_32.png"
       },
       {
-        "address": "0xc45b3c1c24d5f54e7a2cf288ac668c74dd507a84",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Symmetric",
-        "symbol": "SYMM",
-        "logoURI": "https://gnosisscan.io/token/images/symmetricfinance_32.png"
-      },
-      {
         "address": "0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7",
         "chainId": 100,
         "decimals": 18,
@@ -395,14 +323,6 @@
         "name": "Bright",
         "symbol": "BRIGHT",
         "logoURI": "https://gnosisscan.io/token/images/brightid_32.png"
-      },
-      {
-        "address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "JPY Coin",
-        "symbol": "JPYC",
-        "logoURI": "https://gnosisscan.io/token/images/jpycoin_32.png"
       },
       {
         "address": "0xd3226b12e6188133b19ac0419f34b0ed5b10f069",
@@ -429,30 +349,6 @@
         "logoURI": "https://gnosisscan.io/token/images/tripscomm_32.png"
       },
       {
-        "address": "0xd51e1ddd116fff9a71c1b8feeb58113afa2b4d93",
-        "chainId": 100,
-        "decimals": 9,
-        "name": "AMIS",
-        "symbol": "AMIS",
-        "logoURI": "https://gnosisscan.io/token/images/amissolutions_32.png"
-      },
-      {
-        "address": "0x364b5975385b4de226cf450df82d7ed69902ac5a",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "TORG",
-        "symbol": "TORG",
-        "logoURI": "https://gnosisscan.io/token/images/torggno_32.png"
-      },
-      {
-        "address": "0xa899e4476ff5da39dcd9ddec7a6e2c651d8614bf",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "BitcoinBR",
-        "symbol": "BTCBR",
-        "logoURI": "https://gnosisscan.io/token/images/btcbr_32.png"
-      },
-      {
         "address": "0x8b8407c6184f1f0fd1082e83d6a3b8349caced12",
         "chainId": 100,
         "decimals": 8,
@@ -467,14 +363,6 @@
         "name": "Mai Stablecoin",
         "symbol": "MAI",
         "logoURI": "https://gnosisscan.io/token/images/maimimaticgno_32.png"
-      },
-      {
-        "address": "0xa4ef9da5ba71cc0d2e5e877a910a37ec43420445",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "StakeWise Staked GNO",
-        "symbol": "sGNO",
-        "logoURI": "https://gnosisscan.io/token/images/stakewisesgno_32.png"
       },
       {
         "address": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",

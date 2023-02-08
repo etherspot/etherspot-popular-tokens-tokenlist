@@ -53,14 +53,6 @@
         "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
       },
       {
-        "address": "0x8965349fb649a33a30cbfda057d8ec2c48abe2a2",
-        "chainId": 56,
-        "decimals": "18",
-        "name": "USDC",
-        "symbol": "anyUSDC",
-        "logoURI": "https://bscscan.com/token/images/usdcgno_32.png"
-      },
-      {
         "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
         "chainId": 56,
         "decimals": "18",
@@ -173,14 +165,6 @@
         "logoURI": "https://bscscan.com/token/images/ethclassic_32.png?v=1"
       },
       {
-        "address": "0x8595f9da7b868b1822194faed312235e43007b49",
-        "chainId": 56,
-        "decimals": "18",
-        "name": "BitTorrent Token",
-        "symbol": "BTT",
-        "logoURI": "https://bscscan.com/token/images/bittorrent_32.png"
-      },
-      {
         "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
         "chainId": 56,
         "decimals": "18",
@@ -221,14 +205,6 @@
         "logoURI": "https://bscscan.com/token/images/btcb_32.png"
       },
       {
-        "address": "0xc943c5320b9c18c153d1e2d12cc3074bebfb31a2",
-        "chainId": 56,
-        "decimals": "18",
-        "name": "FLOW Token",
-        "symbol": "FLOW",
-        "logoURI": "https://bscscan.com/token/images/onflow_32.png"
-      },
-      {
         "address": "0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094",
         "chainId": 56,
         "decimals": "18",
@@ -243,14 +219,6 @@
         "name": "Axie Infinity Shard Token",
         "symbol": "AXS",
         "logoURI": "https://bscscan.com/token/images/axieinfinity_32.png"
-      },
-      {
-        "address": "0xb3c11196a4f3b1da7c23d9fb0a3dde9c6340934f",
-        "chainId": 56,
-        "decimals": "18",
-        "name": "Pax Dollar Token",
-        "symbol": "USDP",
-        "logoURI": "https://bscscan.com/token/images/paxdollar_32.png"
       },
       {
         "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
@@ -301,14 +269,6 @@
         "logoURI": "https://bscscan.com/token/images/usdd-tron_32.png"
       },
       {
-        "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
-        "chainId": 56,
-        "decimals": "18",
-        "name": "Synthetix Network Token",
-        "symbol": "SNX",
-        "logoURI": "https://bscscan.com/token/images/snx_32.png"
-      },
-      {
         "address": "0x352Cb5E19b12FC216548a2677bD0fce83BaE434B",
         "chainId": 56,
         "decimals": "18",
@@ -341,22 +301,6 @@
         "logoURI": "https://bscscan.com/token/images/miota_32.png?=v1"
       },
       {
-        "address": "0x0ef2e7602add1733bfdb17ac3094d0421b502ca3",
-        "chainId": 56,
-        "decimals": "18",
-        "name": "eCash Token",
-        "symbol": "XEC",
-        "logoURI": "https://bscscan.com/token/images/ecash_32.png"
-      },
-      {
-        "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
-        "chainId": 56,
-        "decimals": "18",
-        "name": "PAX Gold",
-        "symbol": "PAXG",
-        "logoURI": "https://bscscan.com/token/images/paxosgold_32.png"
-      },
-      {
         "address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
         "chainId": 56,
         "decimals": "18",
@@ -387,14 +331,6 @@
         "name": "1INCH Token",
         "symbol": "1INCH",
         "logoURI": "https://bscscan.com/token/images/1inch_32.png"
-      },
-      {
-        "address": "0x7ddee176f665cd201f93eede625770e2fd911990",
-        "chainId": 56,
-        "decimals": "18",
-        "name": "pTokens GALA",
-        "symbol": "GALA",
-        "logoURI": "https://bscscan.com/token/images/galagames_32.png"
       },
       {
         "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
