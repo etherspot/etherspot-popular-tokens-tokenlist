@@ -93,14 +93,6 @@
         "logoURI": "https://polygonscan.com/token/images/wBTC_32.png"
       },
       {
-        "address": "0xb0897686c545045afc77cf20ec7a532e3120e0f1",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "ChainLink Token",
-        "symbol": "LINK",
-        "logoURI": "https://polygonscan.com/token/images/chainlinktoken_32.png"
-      },
-      {
         "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
         "chainId": 137,
         "decimals": "18",
