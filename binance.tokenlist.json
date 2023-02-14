@@ -293,36 +293,12 @@
         "logoURI": "https://bscscan.com/token/images/trust_32.png?v=1"
       },
       {
-        "address": "0xd944f1d1e9d5f9bb90b62f9d45e447d989580782",
-        "chainId": 56,
-        "decimals": "6",
-        "name": "MIOTAC",
-        "symbol": "IOTA",
-        "logoURI": "https://bscscan.com/token/images/miota_32.png?=v1"
-      },
-      {
         "address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
         "chainId": 56,
         "decimals": "18",
         "name": "Frax Share",
         "symbol": "FXS",
         "logoURI": "https://bscscan.com/token/images/fraxfinanceshare_32_2.png?v=3"
-      },
-      {
-        "address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
-        "chainId": 56,
-        "decimals": "12",
-        "name": "Zilliqa",
-        "symbol": "ZIL",
-        "logoURI": "https://bscscan.com/token/images/zilliqa_32.png"
-      },
-      {
-        "address": "0x302cd8973be5ca2334b4ff7e7b01ba41455559b3",
-        "chainId": 56,
-        "decimals": "18",
-        "name": "Ethereum PoW",
-        "symbol": "ETHW",
-        "logoURI": "https://bscscan.com/token/images/ethpowbsc_32.png"
       },
       {
         "address": "0x111111111117dc0aa78b770fa6a738034120c302",
@@ -349,28 +325,12 @@
         "logoURI": "https://bscscan.com/token/images/compound_32.png?v1"
       },
       {
-        "address": "0x7324c7c0d95cebc73eea7e85cbaac0dbdf88a05b",
-        "chainId": 56,
-        "decimals": "18",
-        "name": "Chain",
-        "symbol": "XCN",
-        "logoURI": "https://bscscan.com/token/images/chain-bnb_32.png"
-      },
-      {
         "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
         "chainId": 56,
         "decimals": "18",
         "name": "IoTeX Network",
         "symbol": "IOTX",
         "logoURI": "https://bscscan.com/token/images/iotex_32.png"
-      },
-      {
-        "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
-        "chainId": 56,
-        "decimals": "18",
-        "name": "Wrapped USTC Token",
-        "symbol": "USTC",
-        "logoURI": "https://bscscan.com/token/images/terra-ust_32.png"
       },
       {
         "address": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
@@ -397,28 +357,12 @@
         "logoURI": "https://bscscan.com/token/images/yfi_32.png"
       },
       {
-        "address": "0xea998d307aca04d4f0a3b3036aba84ae2e409c0a",
-        "chainId": 56,
-        "decimals": "18",
-        "name": "JUST",
-        "symbol": "JST",
-        "logoURI": "https://bscscan.com/token/images/just_32.png"
-      },
-      {
         "address": "0x031b41e504677879370e9dbcf937283a8691fa7f",
         "chainId": 56,
         "decimals": "18",
         "name": "Fetch",
         "symbol": "FET",
         "logoURI": "https://bscscan.com/token/images/fetch_32.png"
-      },
-      {
-        "address": "0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b",
-        "chainId": 56,
-        "decimals": "8",
-        "name": "Venus BTC",
-        "symbol": "vBTC",
-        "logoURI": "https://bscscan.com/token/images/venus-vbtc_32.png"
       },
       {
         "address": "0xc748673057861a797275CD8A068AbB95A902e8de",
@@ -435,6 +379,86 @@
         "name": "Ontology Token",
         "symbol": "ONT",
         "logoURI": "https://bscscan.com/token/images/ontology_32.png"
+      },
+      {
+        "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+        "chainId": 56,
+        "decimals": "18",
+        "name": "Filecoin",
+        "symbol": "FIL",
+        "logoURI": "https://bscscan.com/token/images/filecoin_32.png"
+      },
+      {
+        "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "chainId": 56,
+        "decimals": "18",
+        "name": "PancakeSwap",
+        "symbol": "CAKE",
+        "logoURI": "https://bscscan.com/token/images/pancake_32.png?=v1"
+      },
+      {
+        "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+        "chainId": 56,
+        "decimals": "18",
+        "name": "BakeryToken",
+        "symbol": "BAKE",
+        "logoURI": "https://bscscan.com/token/images/bakeryswap_32.png"
+      },
+      {
+        "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+        "chainId": 56,
+        "decimals": "18",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "logoURI": "https://bscscan.com/token/images/litecoin_32.png"
+      },
+      {
+        "address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
+        "chainId": 56,
+        "decimals": "18",
+        "name": "StargateToken",
+        "symbol": "STG",
+        "logoURI": "https://bscscan.com/token/images/stargate_32.png"
+      },
+      {
+        "address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
+        "chainId": 56,
+        "decimals": "9",
+        "name": "FLOKI",
+        "symbol": "FLOKI",
+        "logoURI": "https://bscscan.com/token/images/floki_32.png"
+      },
+      {
+        "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
+        "chainId": 56,
+        "decimals": "18",
+        "name": "Biswap",
+        "symbol": "BSW",
+        "logoURI": "https://bscscan.com/token/images/biswap_32.png"
+      },
+      {
+        "address": "0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
+        "chainId": 56,
+        "decimals": "18",
+        "name": "Level Token",
+        "symbol": "LVL",
+        "logoURI": "https://bscscan.com/token/images/levelfinance_32.png"
+      },
+      {
+        "address": "0x8C851d1a123Ff703BD1f9dabe631b69902Df5f97",
+        "chainId": 56,
+        "decimals": "18",
+        "name": "BinaryX",
+        "symbol": "BNX",
+        "logoURI": "https://bscscan.com/token/images/binaryx_32.png"
+      },
+      {
+        "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+        "chainId": 56,
+        "decimals": "18",
+        "name": "SOLANA",
+        "symbol": "SOL",
+        "logoURI": "https://assets-stage.dex.guru/icons/0x570a5d26f7765ecb712c0924e4de545b89fd43df-bsc.png"
       }
     ]
   }
