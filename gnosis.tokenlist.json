@@ -77,22 +77,6 @@
         "logoURI": "https://gnosisscan.io/token/images/yearnfingno_32.png"
       },
       {
-        "address": "0x6a8cb6714b1ee5b471a7d2ec4302cb4f5ff25ec2",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Energy Web Token Bridged",
-        "symbol": "EWTB",
-        "logoURI": "https://gnosisscan.io/token/images/ewtgno_32.png"
-      },
-      {
-        "address": "0xdfc20ae04ed70bd9c7d720f449eedae19f659d65",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Badger",
-        "symbol": "BADGER",
-        "logoURI": "https://gnosisscan.io/token/images/badgerdaogno_32.png"
-      },
-      {
         "address": "0x21a42669643f45bc0e086b8fc2ed70c23d67509d",
         "chainId": 100,
         "decimals": 18,
@@ -133,14 +117,6 @@
         "logoURI": "https://gnosisscan.io/token/images/hoprgno_32.png"
       },
       {
-        "address": "0x1e16aa4df73d29c029d94ceda3e3114ec191e25a",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Moons",
-        "symbol": "xMOON",
-        "logoURI": "https://gnosisscan.io/token/images/moonsxdai_32.png"
-      },
-      {
         "address": "0x177127622c4a00f3d409b75571e12cb3c8973d3c",
         "chainId": 100,
         "decimals": 18,
@@ -155,14 +131,6 @@
         "name": "Swash Token",
         "symbol": "SWASH",
         "logoURI": "https://gnosisscan.io/token/images/swashgno_32.png"
-      },
-      {
-        "address": "0x48b1b0d077b4919b65b4e4114806dd803901e1d9",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Decentralized Insurance Protocol",
-        "symbol": "DIP",
-        "logoURI": "https://gnosisscan.io/token/images/etheriscdip_32.png"
       },
       {
         "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
@@ -205,52 +173,12 @@
         "logoURI": "https://gnosisscan.io/token/images/agavetoken_32.png"
       },
       {
-        "address": "0xb17d999e840e0c1b157ca5ab8039bd958b5fa317",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Wrapped ETHO",
-        "symbol": "ETHO",
-        "logoURI": "https://gnosisscan.io/token/images/wrappedethogno_32.png"
-      },
-      {
         "address": "0x532801ed6f82fffd2dab70a19fc2d7b2772c4f4b",
         "chainId": 100,
         "decimals": 18,
         "name": "Swapr",
         "symbol": "SWPR",
         "logoURI": "https://gnosisscan.io/token/images/swaprswpr_32.png"
-      },
-      {
-        "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "0xMonero",
-        "symbol": "0xMR",
-        "logoURI": "https://gnosisscan.io/token/images/0xmonero_32.png"
-      },
-      {
-        "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "DeHive.finance",
-        "symbol": "DHV",
-        "logoURI": "https://gnosisscan.io/token/images/dehivefinance_32.png"
-      },
-      {
-        "address": "0x524b969793a64a602342d89bc2789d43a016b13a",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Donut",
-        "symbol": "DONUT",
-        "logoURI": "https://gnosisscan.io/token/images/donutgno_32.png"
-      },
-      {
-        "address": "0x63e62989d9eb2d37dfdb1f93a22f063635b07d51",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Minerva Wallet SuperToken",
-        "symbol": "MIVA",
-        "logoURI": "https://gnosisscan.io/token/images/mivawallet_32.png"
       },
       {
         "address": "0x1698cd22278ef6e7c0df45a8dea72edbea9e42aa",
@@ -325,36 +253,12 @@
         "logoURI": "https://gnosisscan.io/token/images/brightid_32.png"
       },
       {
-        "address": "0xd3226b12e6188133b19ac0419f34b0ed5b10f069",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "EsportsRef",
-        "symbol": "ESR",
-        "logoURI": "https://gnosisscan.io/token/images/esportsref_32.png"
-      },
-      {
         "address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
         "chainId": 100,
         "decimals": 18,
         "name": "Raid Guild Token ⚔️",
         "symbol": "RAID",
         "logoURI": "https://gnosisscan.io/token/images/raidgno_32.png"
-      },
-      {
-        "address": "0x479e32cdff5f216f93060700c711d1cc8e811a6b",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Trips",
-        "symbol": "TRIPS",
-        "logoURI": "https://gnosisscan.io/token/images/tripscomm_32.png"
-      },
-      {
-        "address": "0x8b8407c6184f1f0fd1082e83d6a3b8349caced12",
-        "chainId": 100,
-        "decimals": 8,
-        "name": "Circuits of Value V2",
-        "symbol": "COVAL",
-        "logoURI": "https://gnosisscan.io/token/images/circuitofvalue_32.png"
       },
       {
         "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
@@ -371,6 +275,62 @@
         "name": "Bitcoin",
         "symbol": "WBTC",
         "logoURI": "https://gnosisscan.io/token/images/wbtcgno_32.png"
+      },
+      {
+        "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
+        "chainId": 100,
+        "decimals": 18,
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "logoURI": "https://gnosisscan.io/token/images/wethgno_32.png"
+      },
+      {
+        "address": "0x712b3d230f3c1c19db860d80619288b1f0bdd0bd",
+        "chainId": 100,
+        "decimals": 18,
+        "name": "Curve",
+        "symbol": "CRV",
+        "logoURI": "https://gnosisscan.io/token/images/curve_32.png"
+      },
+      {
+        "address": "0xdd96b45877d0e8361a4ddb732da741e97f3191ff",
+        "chainId": 100,
+        "decimals": 18,
+        "name": "BUSD",
+        "symbol": "BUSD",
+        "logoURI": "https://gnosisscan.io/token/images/paxosbusd_32.png"
+      },
+      {
+        "address": "0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb",
+        "chainId": 100,
+        "decimals": 0,
+        "name": "MtPelerin Shares",
+        "symbol": "MPS",
+        "logoURI": "https://gnosisscan.io/token/images/mtpelerinsharesgno_32.png"
+      },
+      {
+        "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+        "chainId": 100,
+        "decimals": 18,
+        "name": "ELK",
+        "symbol": "ELK",
+        "logoURI": "https://gnosisscan.io/token/images/elkfinance_32.png"
+      },
+      {
+        "address": "0x256eb8a51f382650b2a1e946b8811953640ee47d",
+        "chainId": 100,
+        "decimals": 18,
+        "name": "Streamr",
+        "symbol": "DATA",
+        "logoURI": "https://gnosisscan.io/token/images/elkfinance_32.png"
+      },
+      {
+        "address": "0xc9b6218affe8aba68a13899cbf7cf7f14ddd304c",
+        "chainId": 100,
+        "decimals": 18,
+        "name": "Colony Network",
+        "symbol": "CLNY",
+        "logoURI": "https://assets-stage.dex.guru/icons/0xc9b6218affe8aba68a13899cbf7cf7f14ddd304c-gnosis.png"
       }
     ]
   }
