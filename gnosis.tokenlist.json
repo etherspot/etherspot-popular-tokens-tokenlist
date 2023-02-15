@@ -301,14 +301,6 @@
         "logoURI": "https://gnosisscan.io/token/images/paxosbusd_32.png"
       },
       {
-        "address": "0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb",
-        "chainId": 100,
-        "decimals": 0,
-        "name": "MtPelerin Shares",
-        "symbol": "MPS",
-        "logoURI": "https://gnosisscan.io/token/images/mtpelerinsharesgno_32.png"
-      },
-      {
         "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
         "chainId": 100,
         "decimals": 18,
