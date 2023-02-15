@@ -205,14 +205,6 @@
         "logoURI": "https://polygonscan.com/token/images/nexo_32.png"
       },
       {
-        "address": "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Wootrade Network",
-        "symbol": "WOO",
-        "logoURI": "https://polygonscan.com/token/images/wootradepoly_32.png"
-      },
-      {
         "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
         "chainId": 137,
         "decimals": "18",
@@ -229,28 +221,12 @@
         "logoURI": "https://polygonscan.com/token/images/bat.png"
       },
       {
-        "address": "0xcb059c5573646047d6d88dddb87b745c18161d3b",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Polymath",
-        "symbol": "POLY",
-        "logoURI": "https://polygonscan.com/token/images/polymath_28.png"
-      },
-      {
         "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
         "chainId": 137,
         "decimals": "18",
         "name": "Compound",
         "symbol": "COMP",
         "logoURI": "https://polygonscan.com/token/images/comp_32.png"
-      },
-      {
-        "address": "0xd85d1e945766fea5eda9103f918bd915fbca63e6",
-        "chainId": 137,
-        "decimals": "4",
-        "name": "Celsius",
-        "symbol": "CEL",
-        "logoURI": "https://polygonscan.com/token/images/celsiustoken_32.png"
       },
       {
         "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
@@ -269,22 +245,6 @@
         "logoURI": "https://polygonscan.com/token/images/sushiswap-sushi_32.png"
       },
       {
-        "address": "0x692597b009d13c4049a947cab2239b7d6517875f",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Wrapped UST Token",
-        "symbol": "UST",
-        "logoURI": "https://polygonscan.com/token/images/terra-ust_32.png"
-      },
-      {
-        "address": "0x0b220b82f3ea3b7f6d9a1d8ab58930c064a2b5bf",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Golem Network Token",
-        "symbol": "GLM",
-        "logoURI": "https://polygonscan.com/token/images/golem-glm_32.png"
-      },
-      {
         "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
         "chainId": 137,
         "decimals": "18",
@@ -301,12 +261,76 @@
         "logoURI": "https://polygonscan.com/token/images/mask_32.png"
       },
       {
-        "address": "0xe0339c80ffde91f3e20494df88d4206d86024cdf",
+        "address": "0x11CD37bb86F65419713f30673A480EA33c826872",
         "chainId": 137,
         "decimals": "18",
-        "name": "Dogelon",
-        "symbol": "ELON",
-        "logoURI": "https://polygonscan.com/token/images/dogelon_32.png"
+        "name": "Wrapped Ethereum",
+        "symbol": "WETH",
+        "logoURI": "https://polygonscan.com/token/images/wormholeeth_32.png"
+      },
+      {
+        "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+        "chainId": 137,
+        "decimals": "18",
+        "name": "BOB",
+        "symbol": "BOB",
+        "logoURI": "https://polygonscan.com/token/images/bobstable_32.png"
+      },
+      {
+        "address": "0xe5417af564e4bfda1c483642db72007871397896",
+        "chainId": 137,
+        "decimals": "18",
+        "name": "Gains Network",
+        "symbol": "GNS",
+        "logoURI": "https://polygonscan.com/token/images/gainsnetwork_32.png"
+      },
+      {
+        "address": "0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7",
+        "chainId": 137,
+        "decimals": "18",
+        "name": "Metavault Trade",
+        "symbol": "MVX",
+        "logoURI": "https://polygonscan.com/token/images/metavaulttrade_new_32.png"
+      },
+      {
+        "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+        "chainId": 137,
+        "decimals": "18",
+        "name": "miMATIC",
+        "symbol": "miMATIC",
+        "logoURI": "https://polygonscan.com/token/images/miMatic_32.png"
+      },
+      {
+        "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
+        "chainId": 137,
+        "decimals": "18",
+        "name": "VOXEL Token",
+        "symbol": "VOXEL",
+        "logoURI": "https://polygonscan.com/token/images/voxies_32.png"
+      },
+      {
+        "address": "0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4",
+        "chainId": 137,
+        "decimals": "18",
+        "name": "Staked MATIC",
+        "symbol": "stMATIC",
+        "logoURI": "https://polygonscan.com/token/images/lidostmatic_32.png"
+      },
+      {
+        "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32",
+        "chainId": 137,
+        "decimals": "18",
+        "name": "Telcoin",
+        "symbol": "TEL",
+        "logoURI": "https://polygonscan.com/token/images/telcoin_28.png"
+      },
+      {
+        "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+        "chainId": 137,
+        "decimals": "18",
+        "name": "Qi Dao",
+        "symbol": "QI",
+        "logoURI": "https://polygonscan.com/token/images/qidao_32.png"
       }
     ]
   }
