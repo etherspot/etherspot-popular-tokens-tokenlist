@@ -24,7 +24,7 @@
         "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
         "chainId": 56,
         "decimals": "18",
-        "name": "Ethereum Token",
+        "name": "Ethereum",
         "symbol": "ETH",
         "logoURI": "https://bscscan.com/token/images/ethereum_32.png"
       },
@@ -48,7 +48,7 @@
         "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
         "chainId": 56,
         "decimals": "18",
-        "name": "USD Coin",
+        "name": "USDC",
         "symbol": "USDC",
         "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
       },
@@ -56,7 +56,7 @@
         "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
         "chainId": 56,
         "decimals": "18",
-        "name": "XRP Token",
+        "name": "XRP",
         "symbol": "XRP",
         "logoURI": "https://bscscan.com/token/images/xrp_32.png"
       },
@@ -64,7 +64,7 @@
         "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "chainId": 56,
         "decimals": "18",
-        "name": "BUSD Token",
+        "name": "BUSD",
         "symbol": "BUSD",
         "logoURI": "https://bscscan.com/token/images/busd_32_2.png"
       },
@@ -72,7 +72,7 @@
         "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
         "chainId": 56,
         "decimals": "18",
-        "name": "Cardano Token",
+        "name": "Cardano",
         "symbol": "ADA",
         "logoURI": "https://bscscan.com/token/images/cardano_32.png"
       },
@@ -80,7 +80,7 @@
         "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
         "chainId": 56,
         "decimals": "8",
-        "name": "Dogecoin Token",
+        "name": "Dogecoin",
         "symbol": "DOGE",
         "logoURI": "https://bscscan.com/token/images/dogecoin_32.png"
       },
@@ -88,7 +88,7 @@
         "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
         "chainId": 56,
         "decimals": "18",
-        "name": "Matic Token",
+        "name": "Matic",
         "symbol": "MATIC",
         "logoURI": "https://bscscan.com/token/images/matic_32.png"
       },
@@ -96,7 +96,7 @@
         "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
         "chainId": 56,
         "decimals": "18",
-        "name": "Litecoin Token",
+        "name": "Litecoin",
         "symbol": "LTC",
         "logoURI": "https://bscscan.com/token/images/litecoin_32.png"
       },
@@ -104,7 +104,7 @@
         "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
         "chainId": 56,
         "decimals": "18",
-        "name": "Polkadot Token",
+        "name": "Polkadot",
         "symbol": "DOT",
         "logoURI": "https://bscscan.com/token/images/polkadot_32.png"
       },
@@ -112,15 +112,15 @@
         "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
         "chainId": 56,
         "decimals": "18",
-        "name": "Dai Token",
+        "name": "DAI",
         "symbol": "DAI",
-        "logoURI": "https://bscscan.com/token/images/dai_32.png"
+        "logoURI": "https://bscscan.com/token/images/DAI_32.png"
       },
       {
         "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
         "chainId": 56,
         "decimals": "18",
-        "name": "SHIBA INU Token",
+        "name": "SHIBA INU",
         "symbol": "SHIB",
         "logoURI": "https://bscscan.com/token/images/shibatoken_32.png"
       },
@@ -128,7 +128,7 @@
         "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
         "chainId": 56,
         "decimals": "18",
-        "name": "Avalanche Token",
+        "name": "Avalanche",
         "symbol": "AVAX",
         "logoURI": "https://bscscan.com/token/images/avax_32.png"
       },
@@ -144,7 +144,7 @@
         "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
         "chainId": 56,
         "decimals": "18",
-        "name": "Cosmos Token",
+        "name": "Cosmos",
         "symbol": "ATOM",
         "logoURI": "https://bscscan.com/token/images/cosmos_32.png"
       },
@@ -152,7 +152,7 @@
         "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
         "chainId": 56,
         "decimals": "18",
-        "name": "ChainLink Token",
+        "name": "ChainLink",
         "symbol": "LINK",
         "logoURI": "https://bscscan.com/token/images/chainlink_32.png?v=2"
       },
@@ -168,7 +168,7 @@
         "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
         "chainId": 56,
         "decimals": "18",
-        "name": "Bitcoin Cash Token",
+        "name": "Bitcoin Cash",
         "symbol": "BCH",
         "logoURI": "https://bscscan.com/token/images/bitcoincash_32.png"
       },
@@ -184,7 +184,7 @@
         "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
         "chainId": 56,
         "decimals": "18",
-        "name": "EOS Token",
+        "name": "EOS",
         "symbol": "EOS",
         "logoURI": "https://bscscan.com/token/images/eos_32.png"
       },
@@ -200,7 +200,7 @@
         "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
         "chainId": 56,
         "decimals": "18",
-        "name": "BTCB Token",
+        "name": "BTCB",
         "symbol": "BTCB",
         "logoURI": "https://bscscan.com/token/images/btcb_32.png"
       },
@@ -216,7 +216,7 @@
         "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
         "chainId": 56,
         "decimals": "18",
-        "name": "Axie Infinity Shard Token",
+        "name": "Axie Infinity Shard",
         "symbol": "AXS",
         "logoURI": "https://bscscan.com/token/images/axieinfinity_32.png"
       },
@@ -224,7 +224,7 @@
         "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
         "chainId": 56,
         "decimals": "18",
-        "name": "Elrond Token",
+        "name": "Elrond",
         "symbol": "EGLD",
         "logoURI": "https://bscscan.com/token/images/elrond_32.png?v=2"
       },
@@ -232,7 +232,7 @@
         "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
         "chainId": 56,
         "decimals": "18",
-        "name": "TrueUSD Token",
+        "name": "TrueUSD",
         "symbol": "TUSD",
         "logoURI": "https://bscscan.com/token/images/trueusd_32.png"
       },
@@ -240,7 +240,7 @@
         "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
         "chainId": 56,
         "decimals": "18",
-        "name": "Tezos Token",
+        "name": "Tezos",
         "symbol": "XTZ",
         "logoURI": "https://bscscan.com/token/images/tezos_32.png"
       },
@@ -256,7 +256,7 @@
         "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
         "chainId": 56,
         "decimals": "18",
-        "name": "Zcash Token",
+        "name": "Zcash",
         "symbol": "ZEC",
         "logoURI": "https://bscscan.com/token/images/zcash_32.png"
       },
@@ -304,7 +304,7 @@
         "address": "0x111111111117dc0aa78b770fa6a738034120c302",
         "chainId": 56,
         "decimals": "18",
-        "name": "1INCH Token",
+        "name": "1INCH",
         "symbol": "1INCH",
         "logoURI": "https://bscscan.com/token/images/1inch_32.png"
       },
@@ -312,7 +312,7 @@
         "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
         "chainId": 56,
         "decimals": "18",
-        "name": "Basic Attention Token",
+        "name": "BAT",
         "symbol": "BAT",
         "logoURI": "https://bscscan.com/token/images/bat_32.png"
       },
@@ -320,7 +320,7 @@
         "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
         "chainId": 56,
         "decimals": "18",
-        "name": "Compound Coin",
+        "name": "Compound",
         "symbol": "COMP",
         "logoURI": "https://bscscan.com/token/images/compound_32.png?v1"
       },
@@ -336,7 +336,7 @@
         "address": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
         "chainId": 56,
         "decimals": "8",
-        "name": "Green Metaverse Token",
+        "name": "Green Metaverse",
         "symbol": "GMT",
         "logoURI": "https://bscscan.com/token/images/stepngmt_32.png"
       },
@@ -368,7 +368,7 @@
         "address": "0xc748673057861a797275CD8A068AbB95A902e8de",
         "chainId": 56,
         "decimals": "9",
-        "name": "Baby Doge Coin",
+        "name": "Baby Doge",
         "symbol": "BabyDoge",
         "logoURI": "https://bscscan.com/token/images/babydoge_32.png"
       },
@@ -376,7 +376,7 @@
         "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
         "chainId": 56,
         "decimals": "18",
-        "name": "Ontology Token",
+        "name": "Ontology",
         "symbol": "ONT",
         "logoURI": "https://bscscan.com/token/images/ontology_32.png"
       },
@@ -400,7 +400,7 @@
         "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
         "chainId": 56,
         "decimals": "18",
-        "name": "BakeryToken",
+        "name": "Bakery",
         "symbol": "BAKE",
         "logoURI": "https://bscscan.com/token/images/bakeryswap_32.png"
       },
@@ -416,7 +416,7 @@
         "address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
         "chainId": 56,
         "decimals": "18",
-        "name": "StargateToken",
+        "name": "Stargate",
         "symbol": "STG",
         "logoURI": "https://bscscan.com/token/images/stargate_32.png"
       },
@@ -440,7 +440,7 @@
         "address": "0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
         "chainId": 56,
         "decimals": "18",
-        "name": "Level Token",
+        "name": "Level",
         "symbol": "LVL",
         "logoURI": "https://bscscan.com/token/images/levelfinance_32.png"
       },

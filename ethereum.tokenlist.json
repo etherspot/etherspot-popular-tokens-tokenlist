@@ -40,7 +40,7 @@
         "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
         "chainId": 1,
         "decimals": "6",
-        "name": "USD Coin",
+        "name": "USDC",
         "symbol": "USDC",
         "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
       },
@@ -56,7 +56,7 @@
         "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
         "chainId": 1,
         "decimals": "18",
-        "name": "Matic Token",
+        "name": "Matic",
         "symbol": "MATIC",
         "logoURI": "https://etherscan.io/token/images/polygonnew_32.png"
       },
@@ -96,9 +96,9 @@
         "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
         "chainId": 1,
         "decimals": "18",
-        "name": "Dai Stablecoin",
+        "name": "DAI Stablecoin",
         "symbol": "DAI",
-        "logoURI": "https://etherscan.io/token/images/MCDDai_32.png"
+        "logoURI": "https://etherscan.io/token/images/MCDDAI_32.png"
       },
       {
         "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
@@ -128,7 +128,7 @@
         "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
         "chainId": 1,
         "decimals": "18",
-        "name": "ChainLink Token",
+        "name": "ChainLink",
         "symbol": "LINK",
         "logoURI": "https://etherscan.io/token/images/chainlinktoken_32.png?v=6"
       },
@@ -144,7 +144,7 @@
         "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
         "chainId": 1,
         "decimals": "8",
-        "name": "Cronos Coin",
+        "name": "Cronos",
         "symbol": "CRO",
         "logoURI": "https://etherscan.io/token/images/cro_32.png"
       },
@@ -152,7 +152,7 @@
         "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
         "chainId": 1,
         "decimals": "18",
-        "name": "Lido DAO Token",
+        "name": "Lido",
         "symbol": "LDO",
         "logoURI": "https://etherscan.io/token/images/lido-dao_32.png"
       },
@@ -224,7 +224,7 @@
         "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
         "chainId": 1,
         "decimals": "6",
-        "name": "KuCoin Token",
+        "name": "KuCoin",
         "symbol": "KCS",
         "logoURI": "https://etherscan.io/token/images/kucointoken_32.png"
       },
@@ -232,7 +232,7 @@
         "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
         "chainId": 1,
         "decimals": "18",
-        "name": "Fantom Token",
+        "name": "Fantom",
         "symbol": "FTM",
         "logoURI": "https://etherscan.io/token/images/fantomtoken_32.png"
       },
@@ -272,7 +272,7 @@
         "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
         "chainId": 1,
         "decimals": "18",
-        "name": "Graph Token",
+        "name": "Graph",
         "symbol": "GRT",
         "logoURI": "https://etherscan.io/token/images/TheGraph_32.png"
       },
@@ -304,7 +304,7 @@
         "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
         "chainId": 1,
         "decimals": "18",
-        "name": "Synthetix Network Token",
+        "name": "Synthetix Network",
         "symbol": "SNX",
         "logoURI": "https://etherscan.io/token/images/SynthetixSNX_32.png"
       },
@@ -320,7 +320,7 @@
         "address": "0x111111111117dc0aa78b770fa6a738034120c302",
         "chainId": 1,
         "decimals": "18",
-        "name": "1INCH Token",
+        "name": "1INCH",
         "symbol": "1INCH",
         "logoURI": "https://etherscan.io/token/images/1inch_32.png"
       },
@@ -440,7 +440,7 @@
         "address": "0x42bBFa2e77757C645eeaAd1655E0911a7553Efbc",
         "chainId": 1,
         "decimals": "18",
-        "name": "Boba Token",
+        "name": "Boba",
         "symbol": "BOBA",
         "logoURI": "https://etherscan.io/token/images/bobanetwork_32.png"
       }

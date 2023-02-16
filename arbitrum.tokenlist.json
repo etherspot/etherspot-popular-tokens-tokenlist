@@ -75,7 +75,7 @@
         "address": "0x088cd8f5ef3652623c22d48b1605dcfe860cd704",
         "chainId": 42161,
         "decimals": "18",
-        "name": "VelaToken",
+        "name": "Vela",
         "symbol": "VELA",
         "logoURI": "https://arbiscan.io/token/images/velaexchange_32.png"
       },
@@ -85,7 +85,7 @@
         "decimals": "18",
         "name": "DAI Stablecoin",
         "symbol": "DAI",
-        "logoURI": "https://arbiscan.io/token/images/MCDDai_32.png"
+        "logoURI": "https://arbiscan.io/token/images/MCDDAI_32.png"
       },
       {
         "address": "0x0c4681e6c0235179ec3d4f4fc4df3d14fdd96017",
@@ -139,7 +139,7 @@
         "address": "0x32eb7902d4134bf98a28b963d26de779af92a212",
         "chainId": 42161,
         "decimals": "18",
-        "name": "Dopex Rebate Token",
+        "name": "Dopex Rebate",
         "symbol": "RDPX",
         "logoURI": "https://arbiscan.io/token/images/dopex-rdpx_32.png"
       },
@@ -243,7 +243,7 @@
         "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
         "chainId": 42161,
         "decimals": "18",
-        "name": "MCDEX Token",
+        "name": "MCDEX",
         "symbol": "MCB",
         "logoURI": "https://arbiscan.io/token/images/mcdextoken_32.png"
       },

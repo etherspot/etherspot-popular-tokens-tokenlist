@@ -40,7 +40,7 @@
         "address": "0x7122d7661c4564b7c6cd4878b06766489a6028a2",
         "chainId": 100,
         "decimals": 18,
-        "name": "Matic Token",
+        "name": "Matic",
         "symbol": "MATIC",
         "logoURI": "https://gnosisscan.io/images/main/empty-token.png"
       },
@@ -56,7 +56,7 @@
         "address": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
         "chainId": 100,
         "decimals": 18,
-        "name": "ChainLink Token",
+        "name": "ChainLink",
         "symbol": "LINK",
         "logoURI": "https://gnosisscan.io/token/images/chainlinkog_32.png"
       },
@@ -64,7 +64,7 @@
         "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
         "chainId": 100,
         "decimals": 18,
-        "name": "Gnosis Token",
+        "name": "Gnosis",
         "symbol": "GNO",
         "logoURI": "https://gnosisscan.io/token/images/gnosistoken_32.png"
       },
@@ -112,7 +112,7 @@
         "address": "0xd057604a14982fe8d88c5fc25aac3267ea142a08",
         "chainId": 100,
         "decimals": 18,
-        "name": "HOPR Token",
+        "name": "HOPR",
         "symbol": "HOPR",
         "logoURI": "https://gnosisscan.io/token/images/hoprgno_32.png"
       },
@@ -128,7 +128,7 @@
         "address": "0x84e2c67cbefae6b5148fca7d02b341b12ff4b5bb",
         "chainId": 100,
         "decimals": 18,
-        "name": "Swash Token",
+        "name": "Swash",
         "symbol": "SWASH",
         "logoURI": "https://gnosisscan.io/token/images/swashgno_32.png"
       },
@@ -144,7 +144,7 @@
         "address": "0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb",
         "chainId": 100,
         "decimals": 18,
-        "name": "DAOhaus Token",
+        "name": "DAOhaus",
         "symbol": "HAUS",
         "logoURI": "https://gnosisscan.io/token/images/daohausgno_32.png"
       },
@@ -162,13 +162,13 @@
         "decimals": 18,
         "name": "STAKE",
         "symbol": "STAKE",
-        "logoURI": "https://gnosisscan.io/token/images/stakexdai_32.png"
+        "logoURI": "https://gnosisscan.io/token/images/stakexDAI_32.png"
       },
       {
         "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
         "chainId": 100,
         "decimals": 18,
-        "name": "Agave Token",
+        "name": "Agave",
         "symbol": "AGVE",
         "logoURI": "https://gnosisscan.io/token/images/agavetoken_32.png"
       },
@@ -210,7 +210,7 @@
         "decimals": 18,
         "name": "Wrapped XDAI",
         "symbol": "WXDAI",
-        "logoURI": "https://gnosisscan.io/token/images/wrappedxdai_32.png"
+        "logoURI": "https://gnosisscan.io/token/images/wrappedxDAI_32.png"
       },
       {
         "address": "0x5df8339c5e282ee48c0c7ce8a7d01a73d38b3b27",
@@ -224,7 +224,7 @@
         "address": "0x97edc0e345fbbbd8460847fcfa3bc2a13bf8641f",
         "chainId": 100,
         "decimals": 18,
-        "name": "DAOSquare Governance Token",
+        "name": "DAOSquare Governance",
         "symbol": "RICE",
         "logoURI": "https://gnosisscan.io/token/images/daosquarerice_32.png"
       },
@@ -232,7 +232,7 @@
         "address": "0x4291f029b9e7acb02d49428458cf6fceac545f81",
         "chainId": 100,
         "decimals": 18,
-        "name": "Water Token",
+        "name": "Water",
         "symbol": "WATER",
         "logoURI": "https://gnosisscan.io/token/images/1hivewater_32.png"
       },
@@ -240,7 +240,7 @@
         "address": "0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7",
         "chainId": 100,
         "decimals": 18,
-        "name": "xDai Native Comb",
+        "name": "xDAI Native Comb",
         "symbol": "xCOMB",
         "logoURI": "https://gnosisscan.io/token/images/xcombnative_32.png"
       },

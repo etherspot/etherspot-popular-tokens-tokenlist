@@ -40,7 +40,7 @@
         "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
         "chainId": 137,
         "decimals": "6",
-        "name": "USD Coin",
+        "name": "USDC",
         "symbol": "USDC",
         "logoURI": "https://polygonscan.com/token/images/centre-usdc_32.png"
       },
@@ -56,7 +56,7 @@
         "address": "0x0000000000000000000000000000000000001010",
         "chainId": 137,
         "decimals": "18",
-        "name": "Matic Token",
+        "name": "Matic",
         "symbol": "MATIC",
         "logoURI": "https://polygonscan.com/token/images/matic_32.png"
       },
@@ -64,15 +64,15 @@
         "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
         "chainId": 137,
         "decimals": "18",
-        "name": "Dai Stablecoin",
+        "name": "DAI Stablecoin",
         "symbol": "DAI",
-        "logoURI": "https://polygonscan.com/token/images/mcdDai_32.png"
+        "logoURI": "https://polygonscan.com/token/images/mcdDAI_32.png"
       },
       {
         "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
         "chainId": 137,
         "decimals": "18",
-        "name": "Avalanche Token",
+        "name": "Avalanche",
         "symbol": "AVAX",
         "logoURI": "https://polygonscan.com/token/images/avaxbtt_32.png"
       },
@@ -96,7 +96,7 @@
         "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
         "chainId": 137,
         "decimals": "18",
-        "name": "ChainLink Token",
+        "name": "ChainLink",
         "symbol": "LINK",
         "logoURI": "https://polygonscan.com/token/images/chainlinktoken_32.png?v=6"
       },
@@ -112,7 +112,7 @@
         "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
         "chainId": 137,
         "decimals": "18",
-        "name": "Lido DAO Token",
+        "name": "Lido",
         "symbol": "LDO",
         "logoURI": "https://polygonscan.com/token/images/lidodao_32.png"
       },
@@ -168,7 +168,7 @@
         "address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
         "chainId": 137,
         "decimals": "18",
-        "name": "Graph Token",
+        "name": "Graph",
         "symbol": "GRT",
         "logoURI": "https://polygonscan.com/token/images/TheGraph_32.png"
       },
@@ -192,7 +192,7 @@
         "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
         "chainId": 137,
         "decimals": "18",
-        "name": "Synthetix Network Token",
+        "name": "Synthetix Network",
         "symbol": "SNX",
         "logoURI": "https://polygonscan.com/token/images/synthetix-snx_32.png"
       },
@@ -208,7 +208,7 @@
         "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
         "chainId": 137,
         "decimals": "18",
-        "name": "1INCH Token",
+        "name": "1INCH",
         "symbol": "1INCH",
         "logoURI": "https://polygonscan.com/token/images/1inch_32.png"
       },
@@ -240,7 +240,7 @@
         "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
         "chainId": 137,
         "decimals": "18",
-        "name": "SushiToken",
+        "name": "Sushi",
         "symbol": "SUSHI",
         "logoURI": "https://polygonscan.com/token/images/sushiswap-sushi_32.png"
       },
@@ -304,7 +304,7 @@
         "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
         "chainId": 137,
         "decimals": "18",
-        "name": "VOXEL Token",
+        "name": "VOXEL",
         "symbol": "VOXEL",
         "logoURI": "https://polygonscan.com/token/images/voxies_32.png"
       },
