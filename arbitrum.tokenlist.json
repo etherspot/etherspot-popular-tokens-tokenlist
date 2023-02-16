@@ -3,7 +3,7 @@
         "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
         "chainId": 42161,
         "decimals": "18",
-        "name": "Ethereum",
+        "name": "Wrapped Ethereum",
         "symbol": "WETH",
         "logoURI": "https://arbiscan.io/token/images/weth_28.png"
       },
