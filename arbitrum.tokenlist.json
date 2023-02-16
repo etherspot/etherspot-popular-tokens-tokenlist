@@ -85,22 +85,6 @@
         "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
       },
       {
-        "address": "0x7F465507f058e17Ad21623927a120ac05CA32741",
-        "chainId": 42161,
-        "decimals": "18",
-        "name": "Arcadeum",
-        "symbol": "ARC",
-        "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
-      },
-      {
-        "address": "0x7F465507f058e17Ad21623927a120ac05CA32741",
-        "chainId": 42161,
-        "decimals": "18",
-        "name": "Arcadeum",
-        "symbol": "ARC",
-        "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
-      },
-      {
         "address": "0x088cd8f5ef3652623c22d48b1605dcfe860cd704",
         "chainId": 42161,
         "decimals": "18",
