@@ -1,17 +1,4 @@
-{
-    "name": "EtherspotPopularTokens",
-    "timestamp": "2023-02-15T00:00:00.000Z",
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 0
-    },
-    "keywords": [
-      "etherspot",
-      "popular",
-      "tokens"
-    ],
-    "tokens": [
+[
       {
         "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
         "chainId": 42161,
@@ -283,15 +270,6 @@
         "name": "TrueUSD",
         "symbol": "TUSD",
         "logoURI": "https://arbiscan.io/token/images/trueusd_32.png"
-      },
-      {
-        "address": "0x4d15a3a2286d883af0aa1b3f21367843fac63e07",
-        "chainId": 42161,
-        "decimals": "18",
-        "name": "TrueUSD",
-        "symbol": "TUSD",
-        "logoURI": "https://arbiscan.io/token/images/trueusd_32.png"
       }
-    ]
-  }
+]
   
