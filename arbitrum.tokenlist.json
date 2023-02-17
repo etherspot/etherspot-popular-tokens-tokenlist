@@ -1,4 +1,17 @@
-[
+{
+    "name": "EtherspotPopularTokens",
+    "timestamp": "2023-01-17T00:00:00.000Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "keywords": [
+      "etherspot",
+      "popular",
+      "tokens"
+    ],
+    "tokens": [
       {
         "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
         "chainId": 42161,
@@ -271,5 +284,5 @@
         "symbol": "TUSD",
         "logoURI": "https://arbiscan.io/token/images/trueusd_32.png"
       }
-]
-  
+    ]
+}
