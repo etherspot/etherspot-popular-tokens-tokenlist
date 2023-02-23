@@ -275,6 +275,22 @@
         "name": "USDC",
         "symbol": "USDC",
         "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
+      },
+      {
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "chainId": 100,
+        "decimals": 18,
+        "name": "Gnosis",
+        "symbol": "GNO",
+        "logoURI": "https://gnosisscan.io/token/images/gnosistoken_32.png"
+      },
+      {
+        "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+        "chainId": 100,
+        "decimals": 6,
+        "name": "USDC",
+        "symbol": "USDC",
+        "logoURI": "https://gnosisscan.io/token/images/usdcgno_32.png"
       }
     ]
   }
