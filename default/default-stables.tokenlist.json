@@ -1,0 +1,113 @@
+{
+    "name": "EtherspotDefaultList",
+    "timestamp": "2023-02-24T00:00:00.000Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "keywords": [
+      "etherspot",
+      "default",
+      "tokens"
+    ],
+    "tokens": [
+      {
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "chainId": 137,
+        "decimals": 18,
+        "name": "DAI",
+        "symbol": "DAI",
+        "logoURI": "https://polygonscan.com/token/images/mcdDai_32.png"
+      },
+      {
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "chainId": 137,
+        "decimals": 6,
+        "name": "USDT",
+        "symbol": "USDT",
+        "logoURI": "https://polygonscan.com/token/images/tether_32.png"
+      },
+      {
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "chainId": 137,
+        "decimals": 6,
+        "name": "USDC",
+        "symbol": "USDC",
+        "logoURI": "https://polygonscan.com/token/images/centre-usdc_32.png"
+      },
+      {
+        "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+        "chainId": 137,
+        "decimals": "18",
+        "name": "Frax",
+        "symbol": "FRAX",
+        "logoURI": "https://polygonscan.com/token/images/frax_32.png"
+      },
+      {
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "chainId": 42161,
+        "decimals": 6,
+        "name": "USDC",
+        "symbol": "USDC",
+        "logoURI": "https://arbiscan.io/token/images/centre-usdc_28.png"
+      },
+      {
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "chainId": 10,
+        "decimals": 18,
+        "name": "DAI",
+        "symbol": "DAI",
+        "logoURI": "https://optimistic.etherscan.io/token/images/MCDDai_32.png"
+      },
+      {
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "chainId": 10,
+        "decimals": 6,
+        "name": "USDC",
+        "symbol": "USDC",
+        "logoURI": "https://optimistic.etherscan.io/token/images/usdc_32.png"
+      },
+      {
+        "address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+        "chainId": 10,
+        "decimals": 18,
+        "name": "LUSD",
+        "symbol": "LUSD",
+        "logoURI": "https://assets-stage.dex.guru/icons/0xc40f949f8a4e094d1b49a23ea9241d289b7b2819-optimism.png"
+      },
+      {
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "chainId": 56,
+        "decimals": 18,
+        "name": "BUSD",
+        "symbol": "BUSD",
+        "logoURI": "https://bscscan.com/token/images/busd_32_2.png"
+      },
+      {
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "chainId": 56,
+        "decimals": 18,
+        "name": "USDT",
+        "symbol": "USDT",
+        "logoURI": "https://bscscan.com/token/images/busdt_32.png"
+      },
+      {
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "chainId": 56,
+        "decimals": 18,
+        "name": "USDC",
+        "symbol": "USDC",
+        "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
+      },
+      {
+        "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+        "chainId": 100,
+        "decimals": 6,
+        "name": "USDC",
+        "symbol": "USDC",
+        "logoURI": "https://gnosisscan.io/token/images/usdcgno_32.png"
+      }
+    ]
+  }
+  
