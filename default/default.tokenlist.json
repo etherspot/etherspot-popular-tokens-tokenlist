@@ -198,7 +198,7 @@
       "decimals": 18,
       "name": "Ripple",
       "symbol": "XRP",
-      "logoURI": "https://cryptologos.cc/logos/xrp-xrp-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/xrp/XRP-BF2.png"
     },
     {
       "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
@@ -206,7 +206,7 @@
       "decimals": 18,
       "name": "Cosmos",
       "symbol": "ATOM",
-      "logoURI": "https://github.com/cosmos/cosmos/blob/master/images/cosmos_logo.png"
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0Eb3a705fc54725037CC9e008bDede697f62F335.png"
     },
     {
       "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
@@ -214,7 +214,7 @@
       "decimals": 18,
       "name": "Filecoin",
       "symbol": "FIL",
-      "logoURI": "https://avatars.githubusercontent.com/u/22014611?s=200&v=4"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/fil/FIL-E2C.png"
     },
     {
       "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
@@ -222,7 +222,7 @@
       "decimals": 18,
       "name": "Cardano",
       "symbol": "ADA",
-      "logoURI": "https://bscscan.com/token/images/cardano_32.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/ada/ADA-9F4.png"
     },
     {
       "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
@@ -230,7 +230,7 @@
       "decimals": 8,
       "name": "Dogecoin",
       "symbol": "DOGE",
-      "logoURI": "https://bscscan.com/token/images/dogecoin_32.png"
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png"
     },
     {
       "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
@@ -246,7 +246,7 @@
       "decimals": 18,
       "name": "Polkadot",
       "symbol": "DOT",
-      "logoURI": "https://bscscan.com/token/images/polkadot_32.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/dot/DOT-64C.png"
     },
     {
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
@@ -254,7 +254,7 @@
       "decimals": 18,
       "name": "BUSD",
       "symbol": "BUSD",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
+      "logoURI": "https://tokens.1inch.io/0x4fabb145d64652a948d72533023f6e7a623c7c53.png"
     },
     {
       "address": "0x55d398326f99059fF775485246999027B3197955",
