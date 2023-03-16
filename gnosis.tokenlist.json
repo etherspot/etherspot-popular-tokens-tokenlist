@@ -88,7 +88,7 @@
         "address": "0x256eb8a51f382650b2a1e946b8811953640ee47d",
         "chainId": 100,
         "decimals": 18,
-        "name": "'Streamr'",
+        "name": "Streamr",
         "symbol": "DATA",
         "logoURI": "https://gnosisscan.io/token/images/streamr_32.png"
       },
@@ -275,14 +275,6 @@
         "name": "Bitcoin",
         "symbol": "WBTC",
         "logoURI": "https://gnosisscan.io/token/images/wbtcgno_32.png"
-      },
-      {
-        "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Wrapped Ether",
-        "symbol": "WETH",
-        "logoURI": "https://gnosisscan.io/token/images/wethgno_32.png"
       },
       {
         "address": "0x712b3d230f3c1c19db860d80619288b1f0bdd0bd",
