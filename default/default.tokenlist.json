@@ -1,297 +1,292 @@
 {
-    "name": "EtherspotDefaultList",
-    "timestamp": "2023-02-23T00:00:00.000Z",
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 0
+  "name": "EtherspotDefaultList",
+  "timestamp": "2023-02-23T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": ["etherspot", "default", "tokens"],
+  "tokens": [
+    {
+      "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+      "chainId": 137,
+      "decimals": "8",
+      "name": "Bitcoin",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
-    "keywords": [
-      "etherspot",
-      "default",
-      "tokens"
-    ],
-    "tokens": [
-      {
-        "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
-        "chainId": 137,
-        "decimals": "8",
-        "name": "Bitcoin",
-        "symbol": "WBTC",
-        "logoURI": "https://polygonscan.com/token/images/wBTC_32.png"
-      },
-      {
-        "address": "0xa6b37fC85d870711C56FbcB8afe2f8dB049AE774",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Pillar",
-        "symbol": "PLR",
-        "logoURI": "https://images.prismic.io/pillar-app/83dcf8ff-6459-41d4-8d43-7ec143814b2d_pillar-logo-5.png?auto=compress,format"
-      },
-      {
-        "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Uniswap",
-        "symbol": "UNI",
-        "logoURI": "https://polygonscan.com/token/images/uniswap_32.png"
-      },
-      {
-        "address": "0x172370d5cd63279efa6d502dab29171933a610af",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "CRV",
-        "symbol": "CRV",
-        "logoURI": "https://polygonscan.com/token/images/curvefi-crv_32.png"
-      },
-      {
-        "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "ChainLink",
-        "symbol": "LINK",
-        "logoURI": "https://polygonscan.com/token/images/chainlinktoken_32.png?v=6"
-      },
-      {
-        "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Aave",
-        "symbol": "AAVE",
-        "logoURI": "https://polygonscan.com/token/images/aave_32.png"
-      },
-      {
-        "address": "0xB7b31a6BC18e48888545CE79e83E06003bE70930",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "ApeCoin",
-        "symbol": "APE",
-        "logoURI": "https://polygonscan.com/token/images/apecoinpoly_32.png"
-      },
-      {
-        "address": "0x61bdd9c7d4df4bf47a4508c0c8245505f2af5b7b",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Axie Infinity Shard",
-        "symbol": "AXS",
-        "logoURI": "https://assets-stage.dex.guru/icons/0x61bdd9c7d4df4bf47a4508c0c8245505f2af5b7b-polygon.png"
-      },
-      {
-        "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Avalanche",
-        "symbol": "AVAX",
-        "logoURI": "https://polygonscan.com/token/images/avaxbtt_32.png"
-      },
-      {
-        "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "SAND",
-        "symbol": "SAND",
-        "logoURI": "https://polygonscan.com/token/images/sand_32.png"
-      },
-      {
-        "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Decentraland",
-        "symbol": "MANA",
-        "logoURI": "https://polygonscan.com/token/images/decentraland_32.png"
-      },
-      {
-        "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "BOB",
-        "symbol": "BOB",
-        "logoURI": "https://polygonscan.com/token/images/bobstable_32.png"
-      },
-      {
-        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
-        "chainId": 137,
-        "decimals": 18,
-        "name": "DAI",
-        "symbol": "DAI",
-        "logoURI": "https://polygonscan.com/token/images/mcdDai_32.png"
-      },
-      {
-        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-        "chainId": 137,
-        "decimals": 6,
-        "name": "USDT",
-        "symbol": "USDT",
-        "logoURI": "https://polygonscan.com/token/images/tether_32.png"
-      },
-      {
-        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-        "chainId": 137,
-        "decimals": 6,
-        "name": "USDC",
-        "symbol": "USDC",
-        "logoURI": "https://polygonscan.com/token/images/centre-usdc_32.png"
-      },
-      {
-        "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Frax",
-        "symbol": "FRAX",
-        "logoURI": "https://polygonscan.com/token/images/frax_32.png"
-      },
-      {
-        "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
-        "chainId": 42161,
-        "decimals": "18",
-        "name": "GMX",
-        "symbol": "GMX",
-        "logoURI": "https://arbiscan.io/token/images/gmxarbi_32.png"
-      },
-      {
-        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-        "chainId": 42161,
-        "decimals": 6,
-        "name": "USDC",
-        "symbol": "USDC",
-        "logoURI": "https://arbiscan.io/token/images/centre-usdc_28.png"
-      },
-      {
-        "address": "0x4200000000000000000000000000000000000042",
-        "chainId": 10,
-        "decimals": "18",
-        "name": "Optimism",
-        "symbol": "OP",
-        "logoURI": "https://optimistic.etherscan.io/token/images/optimism_32.png"
-      },
-      {
-        "address": "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05",
-        "chainId": 10,
-        "decimals": "18",
-        "name": "Velodrome",
-        "symbol": "VELO",
-        "logoURI": "https://optimistic.etherscan.io/token/images/velodrome_32.png"
-      },
-      {
-        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-        "chainId": 10,
-        "decimals": 18,
-        "name": "DAI",
-        "symbol": "DAI",
-        "logoURI": "https://optimistic.etherscan.io/token/images/MCDDai_32.png"
-      },
-      {
-        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
-        "chainId": 10,
-        "decimals": 6,
-        "name": "USDC",
-        "symbol": "USDC",
-        "logoURI": "https://optimistic.etherscan.io/token/images/usdc_32.png"
-      },
-      {
-        "address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
-        "chainId": 10,
-        "decimals": 18,
-        "name": "LUSD",
-        "symbol": "LUSD",
-        "logoURI": "https://assets-stage.dex.guru/icons/0xc40f949f8a4e094d1b49a23ea9241d289b7b2819-optimism.png"
-      },
-      {
-        "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
-        "chainId": 56,
-        "decimals": 18,
-        "name": "Ripple",
-        "symbol": "XRP",
-        "logoURI": "https://bscscan.com/token/images/xrp_32.png"
-      },
-      {
-        "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
-        "chainId": 56,
-        "decimals": 18,
-        "name": "Cosmos",
-        "symbol": "ATOM",
-        "logoURI": "https://bscscan.com/token/images/cosmos_32.png"
-      },
-      {
-        "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
-        "chainId": 56,
-        "decimals": 18,
-        "name": "Filecoin",
-        "symbol": "FIL",
-        "logoURI": "https://bscscan.com/token/images/filecoin_32.png"
-      },
-      {
-        "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
-        "chainId": 56,
-        "decimals": 18,
-        "name": "Cardano",
-        "symbol": "ADA",
-        "logoURI": "https://bscscan.com/token/images/cardano_32.png"
-      },
-      {
-        "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
-        "chainId": 56,
-        "decimals": 8,
-        "name": "Dogecoin",
-        "symbol": "DOGE",
-        "logoURI": "https://bscscan.com/token/images/dogecoin_32.png"
-      },
-      {
-        "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
-        "chainId": 56,
-        "decimals": 18,
-        "name": "Solana",
-        "symbol": "SOL",
-        "logoURI": "https://assets-stage.dex.guru/icons/0x570a5d26f7765ecb712c0924e4de545b89fd43df-bsc.png"
-      },
-      {
-        "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
-        "chainId": 56,
-        "decimals": 18,
-        "name": "Polkadot",
-        "symbol": "DOT",
-        "logoURI": "https://bscscan.com/token/images/polkadot_32.png"
-      },
-      {
-        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-        "chainId": 56,
-        "decimals": 18,
-        "name": "BUSD",
-        "symbol": "BUSD",
-        "logoURI": "https://bscscan.com/token/images/busd_32_2.png"
-      },
-      {
-        "address": "0x55d398326f99059fF775485246999027B3197955",
-        "chainId": 56,
-        "decimals": 18,
-        "name": "USDT",
-        "symbol": "USDT",
-        "logoURI": "https://bscscan.com/token/images/busdt_32.png"
-      },
-      {
-        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-        "chainId": 56,
-        "decimals": 18,
-        "name": "USDC",
-        "symbol": "USDC",
-        "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
-      },
-      {
-        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Gnosis",
-        "symbol": "GNO",
-        "logoURI": "https://gnosisscan.io/token/images/gnosistoken_32.png"
-      },
-      {
-        "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
-        "chainId": 100,
-        "decimals": 6,
-        "name": "USDC",
-        "symbol": "USDC",
-        "logoURI": "https://gnosisscan.io/token/images/usdcgno_32.png"
-      }
-    ]
-  }
-  
+    {
+      "address": "0xa6b37fC85d870711C56FbcB8afe2f8dB049AE774",
+      "chainId": 137,
+      "decimals": "18",
+      "name": "Pillar",
+      "symbol": "PLR",
+      "logoURI": "https://images.prismic.io/pillar-app/83dcf8ff-6459-41d4-8d43-7ec143814b2d_pillar-logo-5.png?auto=compress,format"
+    },
+    {
+      "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+      "chainId": 137,
+      "decimals": "18",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/uni/UNI-DD8.png"
+    },
+    {
+      "address": "0x172370d5cd63279efa6d502dab29171933a610af",
+      "chainId": 137,
+      "decimals": "18",
+      "name": "CRV",
+      "symbol": "CRV",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
+    },
+    {
+      "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+      "chainId": 137,
+      "decimals": "18",
+      "name": "ChainLink",
+      "symbol": "LINK",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/link/LINK-AAD.png"
+    },
+    {
+      "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+      "chainId": 137,
+      "decimals": "18",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/aave/aave.png"
+    },
+    {
+      "address": "0xB7b31a6BC18e48888545CE79e83E06003bE70930",
+      "chainId": 137,
+      "decimals": "18",
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/ape/ape.png"
+    },
+    {
+      "address": "0x61bdd9c7d4df4bf47a4508c0c8245505f2af5b7b",
+      "chainId": 137,
+      "decimals": "18",
+      "name": "Axie Infinity Shard",
+      "symbol": "AXS",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/AXS/axs.png"
+    },
+    {
+      "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+      "chainId": 137,
+      "decimals": "18",
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/avax/avax.png"
+    },
+    {
+      "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+      "chainId": 137,
+      "decimals": "18",
+      "name": "SAND",
+      "symbol": "SAND",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/sand/sand.png"
+    },
+    {
+      "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+      "chainId": 137,
+      "decimals": "18",
+      "name": "Decentraland",
+      "symbol": "MANA",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/mana/mana.png"
+    },
+    {
+      "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+      "chainId": 137,
+      "decimals": "18",
+      "name": "BOB",
+      "symbol": "BOB",
+      "logoURI": "https://pbs.twimg.com/profile_images/1575754862817681408/GTj8Nggj_400x400.png"
+    },
+    {
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "chainId": 137,
+      "decimals": 18,
+      "name": "DAI",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/dai/DAI-D75.png"
+    },
+    {
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "chainId": 137,
+      "decimals": 6,
+      "name": "USDT",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdt/usdt.png"
+    },
+    {
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "chainId": 137,
+      "decimals": 6,
+      "name": "USDC",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdc/USDC-CD2.png"
+    },
+    {
+      "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+      "chainId": 137,
+      "decimals": "18",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/fxs/fxs.png"
+    },
+    {
+      "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "chainId": 42161,
+      "decimals": "18",
+      "name": "GMX",
+      "symbol": "GMX",
+      "logoURI": "https://github.com/gmx-io/gmx-assets/blob/main/GMX-Assets/PNG/GMX_LOGO%20ONLY.png"
+    },
+    {
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "chainId": 42161,
+      "decimals": 6,
+      "name": "USDC",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdc/USDC-CD2.png"
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000042",
+      "chainId": 10,
+      "decimals": "18",
+      "name": "Optimism",
+      "symbol": "OP",
+      "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png"
+    },
+    {
+      "address": "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05",
+      "chainId": 10,
+      "decimals": "18",
+      "name": "Velodrome",
+      "symbol": "VELO",
+      "logoURI": "https://ethereum-optimism.github.io/data/VELO/logo.svg"
+    },
+    {
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "chainId": 10,
+      "decimals": 18,
+      "name": "DAI",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/dai/DAI-D75.png"
+    },
+    {
+      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+      "chainId": 10,
+      "decimals": 6,
+      "name": "USDC",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdc/USDC-CD2.png"
+    },
+    {
+      "address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+      "chainId": 10,
+      "decimals": 18,
+      "name": "LUSD",
+      "symbol": "LUSD",
+      "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg"
+    },
+    {
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Ripple",
+      "symbol": "XRP",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/xrp/XRP-BF2.png"
+    },
+    {
+      "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Cosmos",
+      "symbol": "ATOM",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/atom/ATOM-596.png"
+    },
+    {
+      "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Filecoin",
+      "symbol": "FIL",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/fil/FIL-E2C.png"
+    },
+    {
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Cardano",
+      "symbol": "ADA",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/ada/ADA-9F4.png"
+    },
+    {
+      "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+      "chainId": 56,
+      "decimals": 8,
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/doge/doge.png"
+    },
+    {
+      "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Solana",
+      "symbol": "SOL",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/sol/sol.jpg"
+    },
+    {
+      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/dot/DOT-64C.png"
+    },
+    {
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/busd/BUSD-BD1.png"
+    },
+    {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "USDT",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdt/usdt.png"
+    },
+    {
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "USDC",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdc/USDC-CD2.png"
+    },
+    {
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "chainId": 100,
+      "decimals": 18,
+      "name": "Gnosis",
+      "symbol": "GNO",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
+    },
+    {
+      "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+      "chainId": 100,
+      "decimals": 6,
+      "name": "USDC",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdc/USDC-CD2.png"
+    }
+  ]
+}
