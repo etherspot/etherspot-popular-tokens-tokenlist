@@ -307,7 +307,7 @@
     {
       "chainId": 10,
       "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
-      "name": "Mai Stablecoin",
+      "name": "MAI",
       "symbol": "MAI",
       "decimals": 18,
       "logoURI": "https://www.mai.finance/_next/static/image/assets/images/qi.8cf5407b2217192bbe01168aa85cd3f5.svg"
