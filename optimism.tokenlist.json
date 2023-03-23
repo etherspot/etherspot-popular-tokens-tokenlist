@@ -43,7 +43,7 @@
     {
       "chainId": 10,
       "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
-      "name": "Curve DAO Token",
+      "name": "Curve",
       "symbol": "CRV",
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png"
@@ -51,7 +51,7 @@
     {
       "chainId": 10,
       "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-      "name": "Dai stable coin",
+      "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg"
@@ -67,7 +67,7 @@
     {
       "chainId": 10,
       "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
-      "name": "Dola USD Stablecoin",
+      "name": "Dola USD",
       "symbol": "DOLA",
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png"
@@ -219,7 +219,7 @@
     {
       "chainId": 10,
       "address": "0xcB59a0A753fDB7491d5F3D794316F1adE197B21E",
-      "name": "TrueUSD",
+      "name": "TUSD",
       "symbol": "TUSD",
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png"
@@ -235,7 +235,7 @@
     {
       "chainId": 10,
       "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
-      "name": "USD Coin",
+      "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
@@ -243,7 +243,7 @@
     {
       "chainId": 10,
       "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
-      "name": "Tether USD",
+      "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png"
@@ -324,7 +324,7 @@
       "chainId": 10,
       "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
       "name": " BOB",
-      "symbol": " BOB",
+      "symbol": "BOB",
       "decimals": 18,
       "logoURI": "https://assets-stage.dex.guru/icons/0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b-optimism.png"
     },
@@ -347,7 +347,7 @@
     {
       "chainId": 10,
       "address": "0xFdb794692724153d1488CcdBE0C56c252596735F",
-      "name": "Lido DAO Token",
+      "name": "Lido",
       "symbol": "LDO",
       "decimals": 18,
       "logoURI": "https://assets-stage.dex.guru/icons/0xfdb794692724153d1488ccdbe0c56c252596735f-optimism.png"
@@ -355,7 +355,7 @@
     {
       "chainId": 10,
       "address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
-      "name": "LUSD Stablecoin",
+      "name": "LUSD",
       "symbol": "LUSD",
       "decimals": 18,
       "logoURI": "https://tokens.1inch.io/0x5f98805a4e8be255a32880fdec7f6728c6568ba0.png"
