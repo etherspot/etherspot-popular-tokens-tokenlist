@@ -457,7 +457,7 @@
       "logoURI": "https://assets-stage.dex.guru/icons/0x570a5d26f7765ecb712c0924e4de545b89fd43df-bsc.png"
     },
     {
-      "chainId": 1,
+      "chainId": 56,
       "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
       "name": "BOB",
       "symbol": "BOB",
