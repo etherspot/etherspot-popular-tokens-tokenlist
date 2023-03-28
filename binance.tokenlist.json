@@ -93,14 +93,6 @@
         "logoURI": "https://bscscan.com/token/images/matic_32.png"
       },
       {
-        "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
-        "chainId": 56,
-        "decimals": "18",
-        "name": "Litecoin",
-        "symbol": "LTC",
-        "logoURI": "https://bscscan.com/token/images/litecoin_32.png"
-      },
-      {
         "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
         "chainId": 56,
         "decimals": "18",
