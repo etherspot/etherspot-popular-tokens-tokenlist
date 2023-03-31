@@ -53,14 +53,6 @@
         "logoURI": "https://polygonscan.com/token/images/binanceusd_32.png"
       },
       {
-        "address": "0x0000000000000000000000000000000000001010",
-        "chainId": 137,
-        "decimals": "18",
-        "name": "Matic",
-        "symbol": "MATIC",
-        "logoURI": "https://polygonscan.com/token/images/matic_32.png"
-      },
-      {
         "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
         "chainId": 137,
         "decimals": "18",
