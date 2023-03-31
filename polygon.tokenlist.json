@@ -6,7 +6,11 @@
     "minor": 0,
     "patch": 0
   },
-  "keywords": ["etherspot", "popular", "tokens"],
+  "keywords": [
+    "etherspot",
+    "popular",
+    "tokens"
+  ],
   "tokens": [
     {
       "address": "0xa6b37fC85d870711C56FbcB8afe2f8dB049AE774",
@@ -47,14 +51,6 @@
       "name": "binance-usd",
       "symbol": "BUSD",
       "logoURI": "https://polygonscan.com/token/images/binanceusd_32.png"
-    },
-    {
-      "address": "0x0000000000000000000000000000000000001010",
-      "chainId": 137,
-      "decimals": "18",
-      "name": "Matic",
-      "symbol": "MATIC",
-      "logoURI": "https://polygonscan.com/token/images/matic_32.png"
     },
     {
       "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",

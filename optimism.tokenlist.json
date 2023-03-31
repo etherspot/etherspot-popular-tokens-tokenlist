@@ -6,7 +6,11 @@
     "minor": 0,
     "patch": 0
   },
-  "keywords": ["etherspot", "popular", "tokens"],
+  "keywords": [
+    "etherspot",
+    "popular",
+    "tokens"
+  ],
   "tokens": [
     {
       "chainId": 10,

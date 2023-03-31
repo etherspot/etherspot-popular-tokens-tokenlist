@@ -85,14 +85,6 @@
         "logoURI": "https://gnosisscan.io/token/images/shapeshiftfox_32.png"
       },
       {
-        "address": "0x256eb8a51f382650b2a1e946b8811953640ee47d",
-        "chainId": 100,
-        "decimals": 18,
-        "name": "Streamr",
-        "symbol": "DATA",
-        "logoURI": "https://gnosisscan.io/token/images/streamr_32.png"
-      },
-      {
         "address": "0xb90d6bec20993be5d72a5ab353343f7a0281f158",
         "chainId": 100,
         "decimals": 18,

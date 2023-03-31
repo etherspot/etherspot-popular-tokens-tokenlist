@@ -6,7 +6,11 @@
     "minor": 0,
     "patch": 0
   },
-  "keywords": ["etherspot", "popular", "tokens"],
+  "keywords": [
+    "etherspot",
+     "popular",
+      "tokens"
+    ],
   "tokens": [
     {
       "address": "0x790CFDc6aB2e0eE45a433aAC5434F183BE1f6A20",
