@@ -283,6 +283,14 @@
         "name": "TrueUSD",
         "symbol": "TUSD",
         "logoURI": "https://arbiscan.io/token/images/trueusd_32.png"
+      },
+      {
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "chainId": 42161,
+        "decimals": "18",
+        "name": "Arbitrum",
+        "symbol": "ARB",
+        "logoURI": "https://assets.coingecko.com/coins/images/16547/large/arbitrium.png?1624418103"
       }
     ]
 }
