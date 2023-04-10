@@ -273,7 +273,7 @@
       "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdc/USDC-CD2.png"
     },
     {
-      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
       "chainId": 100,
       "decimals": 18,
       "name": "Gnosis",
