@@ -403,6 +403,14 @@
         "name": "Boba",
         "symbol": "BOBA",
         "logoURI": "https://etherscan.io/token/images/bobanetwork_32.png"
+      },
+      {
+        "address": "0xbEA269038Eb75BdAB47a9C04D0F5c572d94b93D5",
+        "chainId": 1,
+        "decimals": "9",
+        "name": "Wrapped FIO Protocol",
+        "symbol": "wFIO",
+        "logoURI": "https://etherscan.io/token/images/fioprotocol_32.png"
       }
     ]
   }

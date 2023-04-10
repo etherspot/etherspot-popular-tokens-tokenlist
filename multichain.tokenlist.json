@@ -1446,6 +1446,14 @@
         "logoURI": "https://etherscan.io/token/images/Curvefi_32.png"
       },
       {
+        "address": "0xbEA269038Eb75BdAB47a9C04D0F5c572d94b93D5",
+        "chainId": 1,
+        "decimals": "9",
+        "name": "Wrapped FIO Protocol",
+        "symbol": "wFIO",
+        "logoURI": "https://etherscan.io/token/images/fioprotocol_32.png"
+      },
+      {
         "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
         "chainId": 1,
         "decimals": "18",
