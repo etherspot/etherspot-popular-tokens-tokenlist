@@ -1470,6 +1470,14 @@
         "logoURI": "https://etherscan.io/token/images/Balancer_32.png"
       },
       {
+        "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+        "chainId": 1,
+        "decimals": "18",
+        "name": "Veritaseum",
+        "symbol": "VERI",
+        "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF-VsKzPksn5TGoZiSaKBgOiQS2ujx25Nvcitpl4M&s"
+      },
+      {
         "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
         "chainId": 1,
         "decimals": "18",
