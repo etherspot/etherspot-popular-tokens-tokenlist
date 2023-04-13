@@ -273,12 +273,12 @@
       "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdc/USDC-CD2.png"
     },
     {
-      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
       "chainId": 100,
       "decimals": 18,
       "name": "Gnosis",
       "symbol": "GNO",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
+      "logoURI": "https://dynamic-assets.coinbase.com/d1afa9a4f7ce51fa1af1ab94a15ea875a4df2b9a0b6ca619ea3de482d688198d67112c70516b703405b01d9abd5856493c238fe58004b63f4c5b5986a7624da2/asset_icons/b2e81465e2ac5d20898c4793c1c672073895ba71688ad1044a01011fe555ca88.png"
     },
     {
       "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",

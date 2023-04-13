@@ -29,14 +29,6 @@
         "logoURI": "https://etherscan.io/token/images/tether_32.png"
       },
       {
-        "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
-        "chainId": 1,
-        "decimals": "18",
-        "name": "BNB",
-        "symbol": "BNB",
-        "logoURI": "https://etherscan.io/token/images/bnb_28_2.png"
-      },
-      {
         "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
         "chainId": 1,
         "decimals": "6",
@@ -75,14 +67,6 @@
         "name": "stETH",
         "symbol": "stETH",
         "logoURI": "https://etherscan.io/token/images/lido-steth_32.png"
-      },
-      {
-        "address": "0x0abcfbfa8e3fda8b7fba18721caf7d5cf55cf5f5",
-        "chainId": 1,
-        "decimals": "8",
-        "name": "ANY Litecoin",
-        "symbol": "anyLTC",
-        "logoURI": "https://etherscan.io/token/images/anylitecoin_32.png"
       },
       {
         "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
@@ -165,14 +149,6 @@
         "logoURI": "https://etherscan.io/token/images/near_32.png"
       },
       {
-        "address": "0xd850942ef8811f2a866692a623011bde52a462c1",
-        "chainId": 1,
-        "decimals": "18",
-        "name": "VeChain",
-        "symbol": "VEN",
-        "logoURI": "https://etherscan.io/token/images/vechain_28.png"
-      },
-      {
         "address": "0x853d955acef822db058eb8505911ed77f175b99e",
         "chainId": 1,
         "decimals": "18",
@@ -211,14 +187,6 @@
         "name": "TrueUSD",
         "symbol": "TUSD",
         "logoURI": "https://etherscan.io/token/images/trueusd_32.png?v=2"
-      },
-      {
-        "address": "0xfd09cf7cfffa9932e33668311c4777cb9db3c9be",
-        "chainId": 1,
-        "decimals": "18",
-        "name": "Wrapped Decentraland MANA",
-        "symbol": "wMANA",
-        "logoURI": "https://etherscan.io/token/images/decentraland_32.png?v=1"
       },
       {
         "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
@@ -341,7 +309,7 @@
         "logoURI": "https://etherscan.io/token/images/olympusdao2_32.png"
       },
       {
-        "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+        "address": "0x0d438F3b5175Bebc262bF23753C1E53d03432bDE",
         "chainId": 1,
         "decimals": "18",
         "name": "NXM",
@@ -355,14 +323,6 @@
         "name": "Ethereum Name Service",
         "symbol": "ENS",
         "logoURI": "https://etherscan.io/token/images/ens2_32.png?v=2"
-      },
-      {
-        "address": "0xbEA269038Eb75BdAB47a9C04D0F5c572d94b93D5",
-        "chainId": 1,
-        "decimals": "9",
-        "name": "Wrapped FIO Protocol",
-        "symbol": "wFIO",
-        "logoURI": "https://etherscan.io/token/images/fioprotocol_32.png"
       },
       {
         "address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
@@ -443,6 +403,22 @@
         "name": "Boba",
         "symbol": "BOBA",
         "logoURI": "https://etherscan.io/token/images/bobanetwork_32.png"
+      },
+      {
+        "address": "0xbEA269038Eb75BdAB47a9C04D0F5c572d94b93D5",
+        "chainId": 1,
+        "decimals": "9",
+        "name": "Wrapped FIO Protocol",
+        "symbol": "wFIO",
+        "logoURI": "https://etherscan.io/token/images/fioprotocol_32.png"
+      },
+      {
+        "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+        "chainId": 1,
+        "decimals": "18",
+        "name": "Veritaseum",
+        "symbol": "VERI",
+        "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF-VsKzPksn5TGoZiSaKBgOiQS2ujx25Nvcitpl4M&s"
       }
     ]
   }
