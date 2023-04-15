@@ -32,7 +32,7 @@
         "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
         "chainId": 137,
         "decimals": "6",
-        "name": "Tether USD",
+        "name": "USDT",
         "symbol": "USDT",
         "logoURI": "https://polygonscan.com/token/images/tether_32.png"
       },
@@ -48,7 +48,7 @@
         "address": "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
         "chainId": 137,
         "decimals": "18",
-        "name": "binance-usd",
+        "name": "BUSD",
         "symbol": "BUSD",
         "logoURI": "https://polygonscan.com/token/images/binanceusd_32.png"
       },
@@ -56,9 +56,9 @@
         "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
         "chainId": 137,
         "decimals": "18",
-        "name": "DAI Stablecoin",
+        "name": "DAI",
         "symbol": "DAI",
-        "logoURI": "https://polygonscan.com/token/images/mcdDAI_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/dai/DAI-D75.png"
       },
       {
         "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
@@ -136,7 +136,7 @@
         "address": "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756",
         "chainId": 137,
         "decimals": "18",
-        "name": "TrueUSD",
+        "name": "TUSD",
         "symbol": "TUSD",
         "logoURI": "https://polygonscan.com/token/images/trueusd_32.png"
       },

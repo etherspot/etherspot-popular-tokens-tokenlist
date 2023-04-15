@@ -24,7 +24,7 @@
         "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
         "chainId": 1,
         "decimals": "6",
-        "name": "Tether USD",
+        "name": "USDT",
         "symbol": "USDT",
         "logoURI": "https://etherscan.io/token/images/tether_32.png"
       },
@@ -80,9 +80,9 @@
         "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
         "chainId": 1,
         "decimals": "18",
-        "name": "DAI Stablecoin",
+        "name": "DAI",
         "symbol": "DAI",
-        "logoURI": "https://etherscan.io/token/images/MCDDAI_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/dai/DAI-D75.png"
       },
       {
         "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
@@ -184,7 +184,7 @@
         "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
         "chainId": 1,
         "decimals": "18",
-        "name": "TrueUSD",
+        "name": "TUSD",
         "symbol": "TUSD",
         "logoURI": "https://etherscan.io/token/images/trueusd_32.png?v=2"
       },
@@ -392,7 +392,7 @@
         "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
         "chainId": 1,
         "decimals": "18",
-        "name": "LUSD Stablecoin",
+        "name": "LUSD",
         "symbol": "LUSD",
         "logoURI": "https://etherscan.io/token/images/liquitylusd_32.png"
       },

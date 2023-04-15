@@ -24,7 +24,7 @@
         "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
         "chainId": 100,
         "decimals": 6,
-        "name": "Tether USD",
+        "name": "USDT",
         "symbol": "USDT",
         "logoURI": "https://gnosisscan.io/token/images/tether_32.png"
       },
@@ -32,7 +32,7 @@
         "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
         "chainId": 100,
         "decimals": 6,
-        "name": "USD//C",
+        "name": "USDC",
         "symbol": "USDC",
         "logoURI": "https://gnosisscan.io/token/images/usdcgno_32.png"
       },
@@ -256,7 +256,7 @@
         "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
         "chainId": 100,
         "decimals": 18,
-        "name": "Mai Stablecoin",
+        "name": "MAI",
         "symbol": "MAI",
         "logoURI": "https://gnosisscan.io/token/images/maimimaticgno_32.png"
       },

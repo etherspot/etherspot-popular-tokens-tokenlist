@@ -106,7 +106,7 @@
       "decimals": "18",
       "name": "DAI",
       "symbol": "DAI",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/DAI.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/dai/DAI-D75.png"
     },
     {
       "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
@@ -224,7 +224,7 @@
       "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
       "chainId": 56,
       "decimals": "18",
-      "name": "TrueUSD",
+      "name": "TUSD",
       "symbol": "TUSD",
       "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/TUSD.png"
     },
