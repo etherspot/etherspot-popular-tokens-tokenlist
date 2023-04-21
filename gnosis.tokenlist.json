@@ -26,7 +26,7 @@
         "decimals": 6,
         "name": "USDT",
         "symbol": "USDT",
-        "logoURI": "https://gnosisscan.io/token/images/tether_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdt/usdt.png"
       },
       {
         "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
@@ -34,7 +34,7 @@
         "decimals": 6,
         "name": "USDC",
         "symbol": "USDC",
-        "logoURI": "https://gnosisscan.io/token/images/usdcgno_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdc/USDC-CD2.png"
       },
       {
         "address": "0x7122d7661c4564b7c6cd4878b06766489a6028a2",
@@ -50,7 +50,7 @@
         "decimals": 18,
         "name": "Uniswap",
         "symbol": "UNI",
-        "logoURI": "https://gnosisscan.io/token/images/uniswapgno_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/uni/UNI-DD8.png"
       },
       {
         "address": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
@@ -58,7 +58,7 @@
         "decimals": 18,
         "name": "ChainLink",
         "symbol": "LINK",
-        "logoURI": "https://gnosisscan.io/token/images/chainlinkog_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/link/LINK-AAD.png"
       },
       {
         "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
@@ -266,7 +266,7 @@
         "decimals": 8,
         "name": "Bitcoin",
         "symbol": "WBTC",
-        "logoURI": "https://gnosisscan.io/token/images/wbtcgno_32.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
       },
       {
         "address": "0x712b3d230f3c1c19db860d80619288b1f0bdd0bd",
@@ -274,7 +274,7 @@
         "decimals": 18,
         "name": "Curve",
         "symbol": "CRV",
-        "logoURI": "https://gnosisscan.io/token/images/curve_32.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
       },
       {
         "address": "0xdd96b45877d0e8361a4ddb732da741e97f3191ff",
@@ -282,7 +282,7 @@
         "decimals": 18,
         "name": "BUSD",
         "symbol": "BUSD",
-        "logoURI": "https://gnosisscan.io/token/images/paxosbusd_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/busd/BUSD-BD1.png"
       },
       {
         "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",

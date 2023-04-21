@@ -26,7 +26,7 @@
         "decimals": "6",
         "name": "USDT",
         "symbol": "USDT",
-        "logoURI": "https://etherscan.io/token/images/tether_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdt/usdt.png"
       },
       {
         "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -34,7 +34,7 @@
         "decimals": "6",
         "name": "USDC",
         "symbol": "USDC",
-        "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdc/USDC-CD2.png"
       },
       {
         "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
@@ -42,7 +42,7 @@
         "decimals": "18",
         "name": "Binance USD",
         "symbol": "BUSD",
-        "logoURI": "https://etherscan.io/token/images/binanceusd_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/busd/BUSD-BD1.png"
       },
       {
         "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
@@ -90,7 +90,7 @@
         "decimals": "18",
         "name": "Uniswap",
         "symbol": "UNI",
-        "logoURI": "https://etherscan.io/token/images/uniswap_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/uni/UNI-DD8.png"
       },
       {
         "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
@@ -106,7 +106,7 @@
         "decimals": "8",
         "name": "Bitcoin",
         "symbol": "WBTC",
-        "logoURI": "https://etherscan.io/token/images/wbtc_28.png?v=1"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
       },
       {
         "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
@@ -114,7 +114,7 @@
         "decimals": "18",
         "name": "ChainLink",
         "symbol": "LINK",
-        "logoURI": "https://etherscan.io/token/images/chainlinktoken_32.png?v=6"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/link/LINK-AAD.png"
       },
       {
         "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
@@ -122,7 +122,7 @@
         "decimals": "18",
         "name": "ApeCoin",
         "symbol": "APE",
-        "logoURI": "https://etherscan.io/token/images/apecoin_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/ape/ape.png"
       },
       {
         "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
@@ -154,7 +154,7 @@
         "decimals": "18",
         "name": "Frax",
         "symbol": "FRAX",
-        "logoURI": "https://etherscan.io/token/images/fraxfinance_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/fxs/fxs.png"
       },
       {
         "address": "0x4da27a545c0c5b758a6ba100e3a049001de870f5",
@@ -162,7 +162,7 @@
         "decimals": "18",
         "name": "Staked Aave",
         "symbol": "stkAAVE",
-        "logoURI": "https://etherscan.io/token/images/stakedaave_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/aave/aave.png"
       },
       {
         "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
@@ -178,7 +178,7 @@
         "decimals": "18",
         "name": "SAND",
         "symbol": "SAND",
-        "logoURI": "https://etherscan.io/token/images/sand_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/sand/sand.png"
       },
       {
         "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
@@ -338,7 +338,7 @@
         "decimals": "18",
         "name": "Curve",
         "symbol": "CRV",
-        "logoURI": "https://etherscan.io/token/images/Curvefi_32.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
       },
       {
         "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
@@ -346,7 +346,7 @@
         "decimals": "18",
         "name": "Decentraland",
         "symbol": "MANA",
-        "logoURI": "https://etherscan.io/token/images/decentraland_32.png?v=1"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/mana/mana.png"
       },
       {
         "address": "0xba100000625a3754423978a60c9317c58a424e3D",
@@ -370,7 +370,7 @@
         "decimals": "18",
         "name": "Gnosis",
         "symbol": "GNO",
-        "logoURI": "https://etherscan.io/token/images/gnosans_32.png?v=2"
+        "logoURI": "https://dynamic-assets.coinbase.com/d1afa9a4f7ce51fa1af1ab94a15ea875a4df2b9a0b6ca619ea3de482d688198d67112c70516b703405b01d9abd5856493c238fe58004b63f4c5b5986a7624da2/asset_icons/b2e81465e2ac5d20898c4793c1c672073895ba71688ad1044a01011fe555ca88.png"
       },
       {
         "address": "0xf4d2888d29D722226FafA5d9B24F9164c092421E",
@@ -394,7 +394,7 @@
         "decimals": "18",
         "name": "LUSD",
         "symbol": "LUSD",
-        "logoURI": "https://etherscan.io/token/images/liquitylusd_32.png"
+        "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg"
       },
       {
         "address": "0x42bBFa2e77757C645eeaAd1655E0911a7553Efbc",
