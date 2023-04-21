@@ -18,7 +18,7 @@
       "name": "Aave Token",
       "symbol": "AAVE",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/aave/aave.png"
     },
     {
       "chainId": 10,
@@ -50,7 +50,7 @@
       "name": "Curve",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
     },
     {
       "chainId": 10,
@@ -122,7 +122,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/link/LINK-AAD.png"
     },
     {
       "chainId": 10,
@@ -234,7 +234,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/uni/UNI-DD8.png"
     },
     {
       "chainId": 10,
@@ -242,7 +242,7 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdc/USDC-CD2.png"
     },
     {
       "chainId": 10,
@@ -250,7 +250,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdt/usdt.png"
     },
     {
       "chainId": 10,
@@ -274,7 +274,7 @@
       "name": "Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
     {
       "chainId": 10,
@@ -306,7 +306,7 @@
       "name": "Velodrome",
       "symbol": "VELO",
       "decimals": 18,
-      "logoURI": "https://app.velodrome.finance/images/wordmark_white.svg"
+      "logoURI": "https://ethereum-optimism.github.io/data/VELO/logo.svg"
     },
     {
       "chainId": 10,
@@ -322,7 +322,7 @@
       "name": "Frax",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://assets-stage.dex.guru/icons/0x2e3d870790dc77a83dd1d18184acc7439a53f475-optimism.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/fxs/fxs.png"
     },
     {
       "chainId": 10,
@@ -330,7 +330,7 @@
       "name": "BOB",
       "symbol": "BOB",
       "decimals": 18,
-      "logoURI": "https://assets-stage.dex.guru/icons/0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b-optimism.png"
+      "logoURI": "https://pbs.twimg.com/profile_images/1575754862817681408/GTj8Nggj_400x400.png"
     },
     {
       "chainId": 10,
@@ -362,7 +362,16 @@
       "name": "LUSD",
       "symbol": "LUSD",
       "decimals": 18,
-      "logoURI": "https://tokens.1inch.io/0x5f98805a4e8be255a32880fdec7f6728c6568ba0.png"
+      "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg"
+    },
+    {
+    
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": "18",
+      "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png"
     }
   ]
 }

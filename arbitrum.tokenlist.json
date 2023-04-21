@@ -26,7 +26,7 @@
         "decimals": "6",
         "name": "USDC",
         "symbol": "USDC",
-        "logoURI": "https://arbiscan.io/token/images/centre-usdc_28.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdc/USDC-CD2.png"
       },
       {
         "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
@@ -34,7 +34,7 @@
         "decimals": "6",
         "name": "USDT",
         "symbol": "USDT",
-        "logoURI": "https://arbiscan.io/token/images/tether_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdt/usdt.png"
       },
       {
         "address": "0xeD5932eBb289F5C22AcAde951B6a01A49FC99210",
@@ -50,7 +50,7 @@
         "decimals": "18",
         "name": "GMX",
         "symbol": "GMX",
-        "logoURI": "https://arbiscan.io/token/images/gmxarbi_32.png"
+        "logoURI": "https://github.com/gmx-io/gmx-assets/blob/main/GMX-Assets/PNG/GMX_LOGO%20ONLY.png"
       },
       {
         "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
@@ -58,7 +58,7 @@
         "decimals": "8",
         "name": "Bitcoin",
         "symbol": "WBTC",
-        "logoURI": "https://arbiscan.io/token/images/wbtc_28.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
       },
       {
         "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
@@ -130,7 +130,7 @@
         "decimals": "18",
         "name": "ChainLink",
         "symbol": "LINK",
-        "logoURI": "https://arbiscan.io/token/images/chainlink_32.png?v=1"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/link/LINK-AAD.png"
       },
       {
         "address": "0x4945970efeec98d393b4b979b9be265a3ae28a8b",
@@ -146,7 +146,7 @@
         "decimals": "18",
         "name": "Curve",
         "symbol": "CRV",
-        "logoURI": "https://arbiscan.io/token/images/Curvefi_32.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
       },
       {
         "address": "0x32eb7902d4134bf98a28b963d26de779af92a212",
@@ -218,7 +218,7 @@
         "decimals": "18",
         "name": "Uniswap",
         "symbol": "UNI",
-        "logoURI": "https://arbiscan.io/token/images/uniswap_32.png"
+        "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/uni/UNI-DD8.png"
       },
       {
         "address": "0xfc77b86f3ade71793e1eec1e7944db074922856e",

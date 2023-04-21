@@ -32,9 +32,9 @@
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "chainId": 56,
       "decimals": "18",
-      "name": "BSC-USD",
-      "symbol": "BSC-USD",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/BSC-USD.png"
+      "name": "USDT",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdt/usdt.png"
     },
     {
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -50,7 +50,7 @@
       "decimals": "18",
       "name": "USDC",
       "symbol": "USDC",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/USDC.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/usdc/USDC-CD2.png"
     },
     {
       "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
@@ -58,7 +58,7 @@
       "decimals": "18",
       "name": "XRP",
       "symbol": "XRP",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/XRP.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/xrp/XRP-BF2.png"
     },
     {
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
@@ -66,7 +66,7 @@
       "decimals": "18",
       "name": "BUSD",
       "symbol": "BUSD",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/BUSD.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/busd/BUSD-BD1.png"
     },
     {
       "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
@@ -74,7 +74,7 @@
       "decimals": "18",
       "name": "Cardano",
       "symbol": "ADA",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/ADA.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/ada/ADA-9F4.png"
     },
     {
       "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
@@ -82,7 +82,7 @@
       "decimals": "8",
       "name": "Dogecoin",
       "symbol": "DOGE",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/DOGE.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/doge/doge.png"
     },
     {
       "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
@@ -98,7 +98,7 @@
       "decimals": "18",
       "name": "Polkadot",
       "symbol": "DOT",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/DOT.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/dot/DOT-64C.png"
     },
     {
       "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
@@ -122,7 +122,7 @@
       "decimals": "18",
       "name": "Avalanche",
       "symbol": "AVAX",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/AVAX.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/avax/avax.png"
     },
     {
       "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
@@ -130,7 +130,7 @@
       "decimals": "18",
       "name": "Uniswap",
       "symbol": "UNI",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/UNI.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/uni/UNI-DD8.png"
     },
     {
       "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
@@ -138,7 +138,7 @@
       "decimals": "18",
       "name": "Cosmos",
       "symbol": "ATOM",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/ATOM.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/atom/ATOM-596.png"
     },
     {
       "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
@@ -146,7 +146,7 @@
       "decimals": "18",
       "name": "ChainLink",
       "symbol": "LINK",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/LINK.png?v=2"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/link/LINK-AAD.png"
     },
     {
       "address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
@@ -186,7 +186,7 @@
       "decimals": "18",
       "name": "Frax",
       "symbol": "FRAX",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/FRAX.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/fxs/fxs.png"
     },
     {
       "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
@@ -210,7 +210,7 @@
       "decimals": "18",
       "name": "Axie Infinity Shard",
       "symbol": "AXS",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/AXS.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/AXS/axs.png"
     },
     {
       "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
@@ -378,7 +378,7 @@
       "decimals": "18",
       "name": "Filecoin",
       "symbol": "FIL",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/FIL.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/fil/FIL-E2C.png"
     },
     {
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
@@ -450,7 +450,7 @@
       "decimals": "18",
       "name": "SOLANA",
       "symbol": "SOL",
-      "logoURI": "https://public.etherspot.io/tokenlist/assets/binancechain/SOL.png"
+      "logoURI": "https://raw.githubusercontent.com/bnb-chain/tokens-info-v2/master/tokens/sol/sol.jpg"
     }
   ]
 }
