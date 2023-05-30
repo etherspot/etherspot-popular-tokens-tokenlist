@@ -1,0 +1,384 @@
+{
+    "name": "EtherspotPopularTokens",
+    "timestamp": "2023-05-30T00:00:00.000Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "keywords": [
+      "etherspot",
+      "popular",
+      "tokens"
+    ],
+    "tokens": [
+      {
+        "address": "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
+        "chainId": 66,
+        "symbol": "USDC",
+        "decimals": 18,
+        "name": "USDC",
+        "logoURI": "https://static.debank.com/image/coin/logo_url/usdc/e87790bfe0b3f2ea855dc29069b38818.png"
+      },
+      {
+        "address": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+        "chainId": 66,
+        "symbol": "USDT",
+        "decimals": 18,
+        "name": "USDT",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x382bb369d343125bfb2117af9c149795c6c65c50/66eadee7b7bb16b75e02b570ab8d5c01.png"
+      },
+      {
+        "address": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
+        "chainId": 66,
+        "symbol": "ETHK",
+        "decimals": 18,
+        "name": "ETHK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c/d61441782d4a08a7479d54aea211679e.png"
+      },
+      {
+        "address": "0x21cde7e32a6caf4742d00d44b07279e7596d26b9",
+        "chainId": 66,
+        "symbol": "DAIK",
+        "decimals": 18,
+        "name": "DAIK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x21cde7e32a6caf4742d00d44b07279e7596d26b9/2eba06def7ef8749c028514b2a393165.png"
+      },
+      {
+        "address": "0x506f731f7656e2fb34b587b912808f2a7ab640bd",
+        "chainId": 66,
+        "symbol": "WBTCK",
+        "decimals": 18,
+        "name": "WBTCK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x506f731f7656e2fb34b587b912808f2a7ab640bd/6bdd415a0a8e95af653ed396f1a871bc.png"
+      },
+      {
+        "address": "0x2218e0d5e0173769f5b4939a3ae423f7e5e4eab7",
+        "chainId": 66,
+        "symbol": "SUSHIK",
+        "decimals": 18,
+        "name": "SUSHIK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x2218e0d5e0173769f5b4939a3ae423f7e5e4eab7/19f4fdc6f2364c159a580f6c6636f909.png"
+      },
+      {
+        "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
+        "chainId": 66,
+        "symbol": "BUSD",
+        "decimals": 18,
+        "name": "Binance-Peg BUSD Token",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x332730a4f6e03d9c55829435f10360e13cfa41ff/b1afc8c3dd87538a7ef5ceee3d6b8460.png"
+      },
+      {
+        "address": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
+        "chainId": 66,
+        "symbol": "BNB",
+        "decimals": 18,
+        "name": "Binance",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0/8bfdeaa46fe9be8f5cd43a53b8d1eea1.png"
+      },
+      {
+        "address": "0x9851b036c11c59f8634bcb97e05170bdc213c1c9",
+        "chainId": 66,
+        "symbol": "FLOKI",
+        "decimals": 9,
+        "name": "FLOKI",
+        "logoURI": ""
+      },
+      {
+        "address": "0xadf040519fe24ba9df6670599b2de7fd6049772f",
+        "chainId": 66,
+        "symbol": "pUSDT",
+        "decimals": 8,
+        "name": "WePiggy USDT",
+        "logoURI": ""
+      },
+      {
+        "address": "0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4",
+        "chainId": 66,
+        "symbol": "WING",
+        "decimals": 9,
+        "name": "Wing Token",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4/456f8e0797e635197cd3ee1be0e3c294.png"
+      },
+      {
+        "address": "0x2f8eb6f75df534c4992ec79d9825c5ea4b1b2a57",
+        "chainId": 66,
+        "symbol": "ACMD",
+        "decimals": 18,
+        "name": "ACMD TOKEN",
+        "logoURI": ""
+      },
+      {
+        "address": "0xd0c6821aba4fcc65e8f1542589e64bae9de11228",
+        "chainId": 66,
+        "symbol": "FLUX",
+        "decimals": 18,
+        "name": "Flux Protocol",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xd0c6821aba4fcc65e8f1542589e64bae9de11228/b022bf3863f4c5175ebe22ea741164bc.png"
+      },
+      {
+        "address": "0x5ab622494ab7c5e81911558c9552dbd517f403fb",
+        "chainId": 66,
+        "symbol": "Celt",
+        "decimals": 18,
+        "name": "Celestial",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x5ab622494ab7c5e81911558c9552dbd517f403fb/407a56d11b86b9d0a9fca93f78b03276.png"
+      },
+      {
+        "address": "0x3212606f74cc59656e1ec6f587fca61ba3b85eb0",
+        "chainId": 66,
+        "symbol": "SFGK",
+        "decimals": 18,
+        "name": "SFGK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x3212606f74cc59656e1ec6f587fca61ba3b85eb0/17fd6e228e794d1f8aec48fe40297919.png"
+      },
+      {
+        "address": "0xdcac52e001f5bd413aa6ea83956438f29098166b",
+        "chainId": 66,
+        "symbol": "USDK",
+        "decimals": 18,
+        "name": "USDK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xdcac52e001f5bd413aa6ea83956438f29098166b/77f813b8a26660659308d6a65967f210.png"
+      },
+      {
+        "address": "0x97b05e6c5026d5480c4b6576a8699866eb58003b",
+        "chainId": 66,
+        "symbol": "stOKT",
+        "decimals": 18,
+        "name": "Staked OKT",
+        "logoURI": ""
+      },
+      {
+        "address": "0xabc732f6f69a519f6d508434481376b6221eb7d5",
+        "chainId": 66,
+        "symbol": "DOTK",
+        "decimals": 18,
+        "name": "DOTK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xabc732f6f69a519f6d508434481376b6221eb7d5/ecd38cb52e9b44592574272929e6058c.png"
+      },
+      {
+        "address": "0x2168795125d44653e0b858b5f6dcc86d719b6a36",
+        "chainId": 66,
+        "symbol": "KOA",
+        "decimals": 18,
+        "name": "KoalaToken",
+        "logoURI": ""
+      },
+      {
+        "address": "0x3e259bfe720093abb26a2c3fe57670259b2ebea2",
+        "chainId": 66,
+        "symbol": "STK",
+        "decimals": 12,
+        "name": "Super Three Kingdoms",
+        "logoURI": ""
+      },
+      {
+        "address": "0x1cc4d981e897a3d2e7785093a648c0a75fad0453",
+        "chainId": 66,
+        "symbol": "okXEN",
+        "decimals": 18,
+        "name": "XEN Crypto",
+        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e/5ec7cb712de73d5023f40a811395fe35.png"
+      },
+      {
+        "address": "0x9b99c3ce751aa292320033f93a1376902d4ba58b",
+        "chainId": 66,
+        "symbol": "LINKK",
+        "decimals": 18,
+        "name": "LINKK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x9b99c3ce751aa292320033f93a1376902d4ba58b/ec9f53931b5e0ae59925b2cb3e593df5.png"
+      },
+      {
+        "address": "0x7f1ae1c42f5f967c0e1aba3ed7b6d62f88be4275",
+        "chainId": 66,
+        "symbol": "COOK",
+        "decimals": 18,
+        "name": "Poly-Peg COOK",
+        "logoURI": ""
+      },
+      {
+        "address": "0xc05760d75e7f5ad428a906674ce7c7c82d003d01",
+        "chainId": 66,
+        "symbol": "KINEK",
+        "decimals": 18,
+        "name": "KINEK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xc05760d75e7f5ad428a906674ce7c7c82d003d01/7c2e18fe9cf8ea36fdf8429391453016.png"
+      },
+      {
+        "address": "0x54e4622dc504176b3bb432dccaf504569699a7ff",
+        "chainId": 66,
+        "symbol": "BTCK",
+        "decimals": 18,
+        "name": "BTCK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x54e4622dc504176b3bb432dccaf504569699a7ff/f3f5dcaf8ab59c4ea3bde079f272aff5.png"
+      },
+      {
+        "address": "0x99970778e2715bbc9cf8fb83d10dcbc2d2d551a3",
+        "chainId": 66,
+        "symbol": "ETCK",
+        "decimals": 18,
+        "name": "ETCK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x99970778e2715bbc9cf8fb83d10dcbc2d2d551a3/782943aff604f69c7889d90926348210.png"
+      },
+      {
+        "address": "0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2",
+        "chainId": 66,
+        "symbol": "OKB",
+        "decimals": 18,
+        "name": "OKB",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2/b58d6980429c56560d9241765bdf9c2b.png"
+      },
+      {
+        "address": "0xcd08d321f6bc10a10f094e4b2e6c9b8bf9906401",
+        "chainId": 66,
+        "symbol": "ZKSK",
+        "decimals": 18,
+        "name": "ZKSK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xcd08d321f6bc10a10f094e4b2e6c9b8bf9906401/f7a0ea5612d77d6904616d51b993dd0f.png"
+      },
+      {
+        "address": "0xfa520efc34c81bfc1e3dd48b7fe9ff326049f986",
+        "chainId": 66,
+        "symbol": "LTCK",
+        "decimals": 18,
+        "name": "LTCK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xfa520efc34c81bfc1e3dd48b7fe9ff326049f986/eff7e1ec7bc5ac3a30dfd3f39d811b71.png"
+      },
+      {
+        "address": "0x00505505a7576d6734704fabb16f41924e3e384b",
+        "chainId": 66,
+        "symbol": "TRXK",
+        "decimals": 18,
+        "name": "TRXK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x00505505a7576d6734704fabb16f41924e3e384b/17ce062e807618bb1fc3073fbe80ab83.png"
+      },
+      {
+        "address": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+        "chainId": 66,
+        "symbol": "WOKT",
+        "decimals": 18,
+        "name": "Wrapped OKT",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15/54a64333ea780b76b96435d66ab41146.png"
+      },
+      {
+        "address": "0xa07403c1bd0c5cf53df07f15faa589241352527b",
+        "chainId": 66,
+        "symbol": "Blade",
+        "decimals": 18,
+        "name": "Blade",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xa07403c1bd0c5cf53df07f15faa589241352527b/78cdd99eef0eadbbd295188289d8b08f.png"
+      },
+      {
+        "address": "0x2e2f982c3e66db8604b0a99862dd97d31ed740b3",
+        "chainId": 66,
+        "symbol": "OFI",
+        "decimals": 18,
+        "name": "OFI.cash",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x2e2f982c3e66db8604b0a99862dd97d31ed740b3/f003ee13a2aeff6e715c701132c8959d.png"
+      },
+      {
+        "address": "0xbeb67de6cc5af652b2d9b0235750ed70f5a2cb0d",
+        "chainId": 66,
+        "symbol": "LINKK",
+        "decimals": 18,
+        "name": "LINKK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xbeb67de6cc5af652b2d9b0235750ed70f5a2cb0d/ec9f53931b5e0ae59925b2cb3e593df5.png"
+      },
+      {
+        "address": "0xa715f624eb32c6c960b0e044b10cde585d5f5984",
+        "chainId": 66,
+        "symbol": "XRPK",
+        "decimals": 18,
+        "name": "XRPK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xa715f624eb32c6c960b0e044b10cde585d5f5984/63831fb316d33c53141a0175807702b5.png"
+      },
+      {
+        "address": "0x8cd6e29d3686d24d3c2018cee54621ea0f89313b",
+        "chainId": 66,
+        "symbol": "NULS",
+        "decimals": 8,
+        "name": "Nuls",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x8cd6e29d3686d24d3c2018cee54621ea0f89313b/c1db654f59a1ef0cafac0fd9782a410e.png"
+      },
+      {
+        "address": "0x8179d97eb6488860d816e3ecafe694a4153f216c",
+        "chainId": 66,
+        "symbol": "CHE",
+        "decimals": 18,
+        "name": "CherrySwap Token",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x8179d97eb6488860d816e3ecafe694a4153f216c/bd1f415a90c06a983de699f7dce89e82.png"
+      },
+      {
+        "address": "0x77df6ebec3316792d4ea5bc0f8286c27905aa8e8",
+        "chainId": 66,
+        "symbol": "AUCTIONK",
+        "decimals": 18,
+        "name": "AUCTIONK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x77df6ebec3316792d4ea5bc0f8286c27905aa8e8/39fa5fe6a4d1582aea336d718359d958.png"
+      },
+      {
+        "address": "0x8d3573f24c0aa3819a2f5b02b2985dd82b487715",
+        "chainId": 66,
+        "symbol": "FIN",
+        "decimals": 18,
+        "name": "DeFiner",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x8d3573f24c0aa3819a2f5b02b2985dd82b487715/f4096d8aab1b3f0110665e6e3052e278.png"
+      },
+      {
+        "address": "0xf338704c74212d152cb41cec1db11e2e783bcf94",
+        "chainId": 66,
+        "symbol": "SPE",
+        "decimals": 18,
+        "name": "SpadeFinanceToken",
+        "logoURI": ""
+      },
+      {
+        "address": "0xab0d1578216a545532882e420a8c61ea07b00b12",
+        "chainId": 66,
+        "symbol": "KST",
+        "decimals": 18,
+        "name": "KSwap Token",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xab0d1578216a545532882e420a8c61ea07b00b12/8f20551fc3bb863ce1fff406d49467a5.png"
+      },
+      {
+        "address": "0x18d103b7066aeedb6005b78a462ef9027329b1ea",
+        "chainId": 66,
+        "symbol": "BCHK",
+        "decimals": 18,
+        "name": "BCHK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x18d103b7066aeedb6005b78a462ef9027329b1ea/d4d8b21233df37227aeb3b062fb47e4f.png"
+      },
+      {
+        "address": "0x3f8969be2fc0770dcc174968e4b4ff146e0acdaf",
+        "chainId": 66,
+        "symbol": "FILK",
+        "decimals": 18,
+        "name": "FILK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x3f8969be2fc0770dcc174968e4b4ff146e0acdaf/4de5cf59a05ce2c7b7928cec3fdada45.png"
+      },
+      {
+        "address": "0x59d226bb0a4d74274d4354ebb6a0e1a1aa5175b6",
+        "chainId": 66,
+        "symbol": "UNIK",
+        "decimals": 18,
+        "name": "UNIK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x59d226bb0a4d74274d4354ebb6a0e1a1aa5175b6/1b65c06f7e6341dd9f07089a3e9ed89a.png"
+      },
+      {
+        "address": "0xd1351ec15e8511658c2ba1e1e81e1e60aa39c9cd",
+        "chainId": 66,
+        "symbol": "NVT",
+        "decimals": 8,
+        "name": "NerveNetwork",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xd1351ec15e8511658c2ba1e1e81e1e60aa39c9cd/9aca77350b6922045ae12ecc3c8fa00d.png"
+      },
+      {
+        "address": "0xaa27badaa3c9ec9081b8f6c9cdd2bf375f143780",
+        "chainId": 66,
+        "symbol": "SHIBK",
+        "decimals": 18,
+        "name": "SHIBK",
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xaa27badaa3c9ec9081b8f6c9cdd2bf375f143780/1a506c37962f4adf2419bd70fdb64827.png"
+      }
+    ]
+  }  
