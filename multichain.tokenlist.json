@@ -75,7 +75,7 @@
         "name": "Dola USD",
         "symbol": "DOLA",
         "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png"
+        "logoURI": "https://assets-stage.dex.guru/icons/0x2f29bc0ffaf9bff337b31cbe6cb5fb3bf12e5840-bsc.png"
       },
       {
         "chainId": 10,
@@ -171,7 +171,7 @@
         "name": "Rocket Pool ETH",
         "symbol": "rETH",
         "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.png"
+        "logoURI": "https://assets-stage.dex.guru/icons/0xae78736cd615f374d3085123a210448e74fc6393-eth.png"
       },
       {
         "chainId": 10,
@@ -339,7 +339,7 @@
         "name": "BOB",
         "symbol": "BOB",
         "decimals": 18,
-        "logoURI": "https://pbs.twimg.com/profile_images/1575754862817681408/GTj8Nggj_400x400.png"
+        "logoURI": "https://assets-stage.dex.guru/icons/0x7d8146cf21e8d7cbe46054e01588207b51198729-eth.png"
       },
       {
         "chainId": 10,
