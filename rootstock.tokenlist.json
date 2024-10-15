@@ -1,0 +1,183 @@
+{
+    "name": "EtherspotPopularTokens",
+    "timestamp": "2024-07-23T00:00:00.000Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "keywords": [
+      "etherspot",
+      "popular",
+      "tokens"
+    ],
+    "tokens":[
+                {
+                    "address": "0xEf213441a85DF4d7acBdAe0Cf78004E1e486BB96",
+                    "chainId": 30,
+                    "decimals": 6,
+                    "name": "rUSDT",
+                    "symbol": "rUSDT",
+                    "logoURI":"https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"             
+                },
+                {
+                    "address": "0xEfC78FC7D48B64958315949279bA181C2114abbD",
+                    "chainId": 30,
+                    "decimals": 6,
+                    "name": "Sovryn",
+                    "symbol": "SOV",
+                    "logoURI": "https://assets.coingecko.com/coins/images/16248/small/sovryn_logo_orange.png?1709174299" 
+                },
+                {
+                    "address": "0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "RSK Infrastructure Framework",
+                    "symbol": "RIF",
+                    "logoURI": "https://assets.coingecko.com/coins/images/7460/standard/8befc44a46c247e8a3f7fc8abba586b1_%283%29.png?1705501867" 
+                },
+                {
+                    "address": "0xc1411567d2670e24d9c4daaa7cda95686e1250aa",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "Sovryn Dollar",
+                    "symbol": "DLLR",
+                    "logoURI": "https://assets.coingecko.com/coins/images/30947/standard/sovryn_dllr.jpg?1696529786"
+                },
+                {
+                    "address": "0x055a902303746382Fbb7D18f6aE0df56EFDC5213",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "Babelfish",
+                    "symbol": "FISH",
+                    "logoURI": "https://assets.coingecko.com/coins/images/35564/small/babiii.png?1709174430"
+                },
+                {
+                    "address": "0xE700691Da7B9851F2F35f8b8182C69C53ccad9DB",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "Dollar on Chain",
+                    "symbol": "DOC",
+                    "logoURI": "https://assets.coingecko.com/coins/images/33003/small/d4ff7852-9d02-4dd6-b609-a86ee5919d2f.jpg?1705680577"
+                },
+                {
+                    "address": "0x9aC7Fe28967b30e3a4E6E03286D715B42B453d10",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "MOC",
+                    "symbol": "MOC",
+                     "logoURI": "https://assets.coingecko.com/coins/images/33004/small/moc-token-moc.png?1700122500"
+                },
+                {
+                    "address": "0xeeeeeB57642040BE42185f49c52f7E9B38F8eEeE",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "Elk",
+                    "symbol": "ELK",
+                     "logoURI": "https://assets.coingecko.com/coins/images/33004/small/moc-token-moc.png?1700122500"
+                },
+                {
+                    "address": "0xF4d27C56595eD59B66cC7f03CFF5193E4Bd74a61",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "RIFPro",
+                    "symbol": "RIFPRO",
+                     "logoURI": "https://assets.coingecko.com/coins/images/33004/small/moc-token-moc.png?1700122500"
+                },
+                {
+                    "address": "0x2d919f19D4892381d58EdEbEcA66D5642ceF1A1F",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "RIF Dollar on Chain",
+                    "symbol": "RDOC",
+                     "logoURI": "https://assets.coingecko.com/coins/images/39869/standard/USDRIF.webp?1724500201"
+                },
+                {
+                    "address": "0x32345597c3398981bdb77419280DaB89becD90Be",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "TEMCO",
+                    "symbol": "TEMCO",
+                     "logoURI": "https://assets.coingecko.com/coins/images/6210/standard/bSZ7HUuS_400x400.jpg?1696506595"
+                },
+                {
+                    "address": "0x440cd83C160de5C96DDb20246815EA44C7Abbca8",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "BitPRO",
+                    "symbol": "BITP",
+                     "logoURI": "https://assets.coingecko.com/coins/images/33002/standard/moc-token-bpro.png?1700122216"
+                },
+                {
+                    "address": "0x1D931BF8656D795e50Ef6d639562C5bD8AC2b78F",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "ETHs",
+                    "symbol": "ETHs",
+                     "logoURI": "https://assets.coingecko.com/coins/images/33436/standard/ETHS.jpg?1701823389"
+                },
+                {
+                    "address": "0x94039D79244f1d2b9275e0d365bbB1C2d96c7cea",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "Rootstock World Tour x Jumper",
+                    "symbol": "RWTJ",
+                     "logoURI": "https://cdn.galxe.com/galaxy/5234709ba13a40608f2d6f0e071fc696/.png_thumbnail.webp"
+                },
+                {
+                    "address": "0xF7a633BC5083ec0081A83f74148369E2a8dDC24C",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "ARTOSHI Treasures ",
+                    "symbol": "ARTT",
+                     "logoURI": "https://artoshi.io/build/_assets/artoshi_logo-6UPLO3YJ.png"
+                },
+                {
+                    "address": "0x542FDA317318eBf1d3DeAF76E0B632741a7e677d",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "Wrapped Bitcoin",
+                    "symbol": "wBTC",
+                     "logoURI": "https://assets.coingecko.com/coins/images/5070/small/RBTC-logo.png?1718152038"
+                },
+                {
+                    "address": "0xb5999795BE0eBb5BAb23144Aa5fD6a02d080299f",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "XUSD",
+                    "symbol": "XUSD",
+                     "logoURI": "https://assets.coingecko.com/coins/images/28294/standard/XUSD.png?1696527293"
+                },
+                {
+                    "address": "0xb5999795BE0eBb5BAb23144Aa5fD6a02d080299f",
+                    "chainId": 30,
+                    "decimals":18,
+                    "name": "XUSD",
+                    "symbol": "XUSD",
+                     "logoURI": "https://assets.coingecko.com/coins/images/28294/small/XUSD.png?1696527293"
+              },
+                {
+                    "address": "0xfe8929d36AC789c562008aBD59f5Dd7E1eb1F5b6",
+                    "chainId": 30,
+                    "decimals": 18,
+                    "name": "POWA RANGERS GO",
+                    "symbol": "POWA",
+                     "logoURI": "https://assets.coingecko.com/coins/images/37926/small/powa200.png?1715937482"
+                }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
