@@ -1,4 +1,4 @@
-﻿{
+{
     "name": "EtherspotPopularTokens",
     "timestamp": "2024-07-23T00:00:00.000Z",
     "version": {
@@ -18,7 +18,7 @@
                     "decimals": 6,
                     "name": "rUSDT",
                     "symbol": "rUSDT",
-                    "logoURI": " "
+                    "logoURI":"https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"             
                 },
                 {
                     "address": "0xEfC78FC7D48B64958315949279bA181C2114abbD",
@@ -60,7 +60,6 @@
                     "symbol": "DOC",
                     "logoURI": "https://assets.coingecko.com/coins/images/33003/small/d4ff7852-9d02-4dd6-b609-a86ee5919d2f.jpg?1705680577"
                 },
-
                 {
                     "address": "0x9aC7Fe28967b30e3a4E6E03286D715B42B453d10",
                     "chainId": 30,
@@ -91,31 +90,7 @@
                     "decimals": 18,
                     "name": "RIF Dollar on Chain",
                     "symbol": "RDOC",
-                     "logoURI":   ""
-                },
-                {
-                    "address": "0x2E6b1d146064613E8F521EB3C6E65070aF964EBB",
-                    "chainId": 30,
-                    "decimals": 18,
-                    "name": "Sovryn MINT",
-                    "symbol": "MYNT",
-                      "logoURI":   ""
-                },
-                {
-                    "address": "0xd52da63689543924dcA66bCBe2e2Ea599c45d575",
-                    "chainId": 30,
-                    "decimals": 18,
-                    "name": "Pesos Argentinos",
-                    "symbol": "ARSCB",
-                     "logoURI":    ""
-                },
-                {
-                    "address": "0x857a62c9C0B6F1211E04275A1F0c5f26FcE2021F",
-                    "chainId": 30,
-                    "decimals": 18,
-                    "name": "Sovryn community tier NFT",
-                    "symbol": "SOVT1",
-                     "logoURI":    ""
+                     "logoURI": "https://assets.coingecko.com/coins/images/39869/standard/USDRIF.webp?1724500201"
                 },
                 {
                     "address": "0x32345597c3398981bdb77419280DaB89becD90Be",
@@ -123,7 +98,7 @@
                     "decimals": 18,
                     "name": "TEMCO",
                     "symbol": "TEMCO",
-                     "logoURI":    ""
+                     "logoURI": "https://assets.coingecko.com/coins/images/6210/standard/bSZ7HUuS_400x400.jpg?1696506595"
                 },
                 {
                     "address": "0x440cd83C160de5C96DDb20246815EA44C7Abbca8",
@@ -131,7 +106,7 @@
                     "decimals": 18,
                     "name": "BitPRO",
                     "symbol": "BITP",
-                     "logoURI":    ""
+                     "logoURI": "https://assets.coingecko.com/coins/images/33002/standard/moc-token-bpro.png?1700122216"
                 },
                 {
                     "address": "0x1D931BF8656D795e50Ef6d639562C5bD8AC2b78F",
@@ -139,7 +114,7 @@
                     "decimals": 18,
                     "name": "ETHs",
                     "symbol": "ETHs",
-                     "logoURI":    ""
+                     "logoURI": "https://assets.coingecko.com/coins/images/33436/standard/ETHS.jpg?1701823389"
                 },
                 {
                     "address": "0x94039D79244f1d2b9275e0d365bbB1C2d96c7cea",
@@ -147,15 +122,7 @@
                     "decimals": 18,
                     "name": "Rootstock World Tour x Jumper",
                     "symbol": "RWTJ",
-                     "logoURI":    ""
-                },
-                {
-                    "address": "0x94039D79244f1d2b9275e0d365bbB1C2d96c7cea",
-                    "chainId": 30,
-                    "decimals": 18,
-                    "name": "Rootstock World Tour x Jumper",
-                    "symbol": "RWTJ",
-                     "logoURI":    ""
+                     "logoURI": "https://cdn.galxe.com/galaxy/5234709ba13a40608f2d6f0e071fc696/.png_thumbnail.webp"
                 },
                 {
                     "address": "0xF7a633BC5083ec0081A83f74148369E2a8dDC24C",
@@ -163,7 +130,7 @@
                     "decimals": 18,
                     "name": "ARTOSHI Treasures ",
                     "symbol": "ARTT",
-                     "logoURI":    ""
+                     "logoURI": "https://artoshi.io/build/_assets/artoshi_logo-6UPLO3YJ.png"
                 },
                 {
                     "address": "0x542FDA317318eBf1d3DeAF76E0B632741a7e677d",
@@ -171,7 +138,7 @@
                     "decimals": 18,
                     "name": "Wrapped Bitcoin",
                     "symbol": "wBTC",
-                     "logoURI":    "https://assets.coingecko.com/coins/images/5070/small/RBTC-logo.png?1718152038"
+                     "logoURI": "https://assets.coingecko.com/coins/images/5070/small/RBTC-logo.png?1718152038"
                 },
                 {
                     "address": "0xb5999795BE0eBb5BAb23144Aa5fD6a02d080299f",
@@ -179,16 +146,16 @@
                     "decimals": 18,
                     "name": "XUSD",
                     "symbol": "XUSD",
-                     "logoURI": " "
+                     "logoURI": "https://assets.coingecko.com/coins/images/28294/standard/XUSD.png?1696527293"
                 },
                 {
                     "address": "0xb5999795BE0eBb5BAb23144Aa5fD6a02d080299f",
                     "chainId": 30,
-                    "decimals": 18,
+                    "decimals":18,
                     "name": "XUSD",
                     "symbol": "XUSD",
                      "logoURI": "https://assets.coingecko.com/coins/images/28294/small/XUSD.png?1696527293"
-                },
+              },
                 {
                     "address": "0xfe8929d36AC789c562008aBD59f5Dd7E1eb1F5b6",
                     "chainId": 30,
@@ -196,14 +163,21 @@
                     "name": "POWA RANGERS GO",
                     "symbol": "POWA",
                      "logoURI": "https://assets.coingecko.com/coins/images/37926/small/powa200.png?1715937482"
-                },
-                {
-                    "address": "0x9700753133559159eB0f3Af74C5ed3336ab104D4",
-                    "chainId": 30,
-                    "decimals": 18,
-                    "name": "Rocks Took",
-                    "symbol": "ROCKS",
-                     "logoURI": " "
-                    }
-                ]
+                }
+    ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
