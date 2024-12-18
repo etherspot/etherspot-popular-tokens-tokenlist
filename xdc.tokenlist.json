@@ -1,0 +1,184 @@
+{
+  "name": "EtherspotPopularTokens",
+  "timestamp": "2023-01-13T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "etherspot",
+    "popular",
+    "tokens"
+  ],
+  "tokens": [
+    {
+      "address": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
+        "chainId": 50,
+        "decimals": "2",
+        "name": "STASIS EURO ",
+        "symbol": "EURS",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2989.png"
+      },
+      {
+        "address": "0x5d5f074837f5d4618b3916ba74de1bf9662a3fed",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "StorX Network",
+        "symbol": "SRX",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10894.png"
+      },
+      {
+        "address": "0x05940b2df33d6371201e7ae099ced4c363855dfe",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "Law Blocks",
+        "symbol": "LBT",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20964.png"
+      },
+      {
+        "address": "0x8f9920283470F52128bF11B0c14E798bE704fD15",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "Comtech Gold",
+        "symbol": "CGO",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20245.png"
+      },
+      {
+        "address": "0xff7412ea7c8445c46a8254dfb557ac1e48094391",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "Plugin Decentralized Oracle",
+        "symbol": "PLI",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14188.png"
+      },
+      {
+        "address": "0x0E11710AAd67E7427CfbC12c353284C2e335F62c",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "PrimeNumbers Token",
+        "symbol": "PRNT",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17390.png"
+      },
+      {
+        "address": "0x678adf7955d8f6dcaa9e2fcc1c5ba70bccc464e6",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "GAMA Coin",
+        "symbol": "GAMA",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33626.png"
+      },
+      {
+        "address": "0x34514748f86a8da01ef082306b6d6e738f777f5a",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "Globiance Exchange Token",
+        "symbol": "GBEX",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19699.png"
+      },
+      {
+        "address": "0x49d3f7543335cf38Fa10889CCFF10207e22110B5",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "Fathom Dollar",
+        "symbol": "FXD",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27370.png"
+      },
+      {
+        "address": "0x3fB46c4Db76d8E9f69F3F8388f43a7CA7E140807",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "The Dog With A Purpose",
+        "symbol": "DOPU",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31688.png"
+      },
+      {
+        "address": "0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "XSwap Protocol",
+        "symbol": "XSP",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14613.png"
+      },
+      {
+        "address": "0xFa4dDcFa8E3d0475f544d0de469277CF6e0A6Fd1",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "Benny Bad Boy",
+        "symbol": "BBB",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/31987.png"
+      },
+      {
+        "address": "0x17476dc3eda45ad916ceaddea325b240a7fb259d",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "XSwap Treasuer",
+        "symbol": "XTT",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22735.png"
+      },
+      {
+        "address": "0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "Fathom Protocol Token",
+        "symbol": "FTHM",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29056.png"
+      },
+      {
+        "address": "0x536dd70445cea1e97f9bf1bada04cbda5199a2a1",
+        "chainId": 50,
+        "decimals": "10",
+        "name": "Ecoin",
+        "symbol": "ECOIN",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6111.png"
+      },
+      {
+        "address": "0xb3f18b584263191a33169f6393487e43e9586329",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "WadzPay Token",
+        "symbol": "WTK",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7645.png"
+      },
+      {
+        "address": "0x79d745178BC271A1f29F8fbE9251dfC512db842C",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "ZON Token",
+        "symbol": "ZON",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/34021.png"
+      },
+      {
+        "address": "0x951857744785e80e2de051c32ee7b25f9c458c42",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "Wrapped XDC",
+        "symbol": "WXDC",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29189.png"
+      },
+      {
+        "address": "0x20B59e6C5DeB7d7cEd2CA823c6Ca81dd3f7e9A3A",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "DATACHAIN FOUNDATION",
+        "symbol": "DC",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10357.png"
+      },
+      {
+        "address": "0xd04275E2Fd2875beaade6A80b39A75D4fe267df6",
+        "chainId": 50,
+        "decimals": "6",
+        "name": "USNOTA",
+        "symbol": "USNOTA",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16081.png "
+      },
+      {
+        "address": "0xb5fa33923ec3ff7f4b9ab7b4c20b236d31243f77",
+        "chainId": 50,
+        "decimals": "18",
+        "name": "CRESCITE",
+        "symbol": "CRE",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25803.png"
+    }
+  ]
+}
